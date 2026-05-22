@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,City,Subscription_Type,Monthly_Fee,Watch_Hours,Movies_Watched,Series_Watched,Favorite_Genre,Rating_Given,Device,Membership_Years,Cancelled
+10001,19,Female,Hyderabad,Basic,199,27.8,8,5,Drama,4.1,Tablet,2.0,Yes
+10002,45,Female,Ahmedabad,Premium,799,163.9,48,16,Sci-Fi,5.0,Smart TV,0.6,No
+10003,31,Female,Surat,Premium,799,154.0,37,14,Action,5.0,Laptop,7.0,No
+10004,53,Female,Kolkata,Basic,199,38.0,18,2,Sci-Fi,3.9,Laptop,1.7,No
+10005,53,Female,Kolkata,Basic,199,56.5,7,5,Romance,4.5,Smart TV,0.8,No
+10006,46,Male,Mumbai,Standard,499,86.6,29,8,Action,4.5,Smart TV,6.1,No
+10007,22,Female,Chennai,Basic,199,18.7,0,3,Drama,3.3,Mobile,0.6,No
+10008,61,Female,Hyderabad,Premium,799,115.0,34,14,Comedy,4.2,Smart TV,1.4,No
+10009,26,Male,Surat,Standard,499,89.0,19,11,Drama,4.5,Tablet,7.7,No
+10010,62,Male,Pune,Basic,199,51.7,11,6,Thriller,4.0,Tablet,3.5,No
+10011,61,Female,Pune,Standard,499,97.6,26,8,Romance,4.3,Laptop,6.4,No
+10012,56,Female,Kolkata,Standard,499,62.4,13,8,Comedy,4.0,Mobile,2.7,No
+10013,29,Female,Chennai,Standard,499,52.6,17,4,Drama,3.8,Smart TV,2.8,No
+10014,19,Male,Surat,Basic,199,51.2,25,6,Crime,3.9,Laptop,1.0,No
+10015,23,Female,Mumbai,Basic,199,72.9,21,5,Action,4.8,Tablet,2.8,No
+10016,37,Female,Chennai,Standard,499,99.7,27,11,Sci-Fi,4.1,Mobile,3.6,No
+10017,47,Female,Ahmedabad,Standard,499,95.5,23,7,Documentary,4.3,Tablet,1.8,No
+10018,58,Male,Ahmedabad,Basic,199,50.3,14,7,Crime,4.1,Tablet,3.0,No
+10019,42,Male,Jaipur,Premium,799,127.5,33,13,Thriller,5.0,Laptop,6.6,Yes
+10020,38,Female,Pune,Basic,199,87.3,24,10,Crime,4.0,Tablet,6.7,No
+10021,47,Female,Hyderabad,Standard,499,56.0,19,10,Thriller,4.1,Smart TV,5.7,No
+10022,36,Female,Ahmedabad,Premium,799,156.3,41,15,Crime,5.0,Mobile,5.3,No
+10023,46,Male,Bengaluru,Basic,199,49.8,13,5,Documentary,4.2,Smart TV,3.2,No
+10024,59,Male,Hyderabad,Premium,799,113.5,25,11,Drama,3.9,Smart TV,2.3,No
+10025,34,Female,Mumbai,Standard,499,85.8,17,8,Action,3.9,Smart TV,9.9,No
+10026,24,Male,Pune,Standard,499,35.0,11,4,Thriller,3.3,Tablet,4.5,Yes
+10027,40,Male,Hyderabad,Standard,499,103.9,29,8,Comedy,3.9,Mobile,9.0,Yes
+10028,25,Male,Bengaluru,Basic,199,41.7,13,4,Documentary,3.2,Tablet,0.9,No
+10029,43,Male,Surat,Premium,799,108.8,20,10,Thriller,4.4,Laptop,7.1,No
+10030,42,Female,Bengaluru,Premium,799,96.8,32,8,Action,4.2,Tablet,2.1,No
+10031,39,Male,Bengaluru,Standard,499,60.3,24,6,Documentary,3.9,Mobile,7.4,No
+10032,53,Female,Pune,Basic,199,39.0,15,3,Documentary,3.9,Laptop,4.9,No
+10033,44,Female,Kolkata,Standard,499,109.1,27,10,Sci-Fi,4.6,Laptop,6.8,No
+10034,60,Female,Delhi,Standard,499,85.7,20,10,Thriller,4.5,Smart TV,8.3,No
+10035,24,Female,Surat,Standard,499,110.8,21,8,Thriller,5.0,Laptop,4.2,No
+10036,52,Male,Ahmedabad,Standard,499,89.1,25,7,Crime,4.2,Tablet,8.1,No
+10037,42,Male,Jaipur,Basic,199,36.6,14,3,Romance,4.3,Mobile,9.3,No
+10038,36,Female,Bengaluru,Standard,499,18.6,4,2,Thriller,3.6,Smart TV,3.3,No
+10039,56,Female,Surat,Standard,499,44.0,12,3,Thriller,4.0,Smart TV,9.5,No
+10040,24,Female,Kolkata,Premium,799,95.2,22,10,Drama,5.0,Mobile,1.9,No
+10041,42,Male,Pune,Premium,799,105.9,27,12,Sci-Fi,4.4,Laptop,1.3,No
+10042,62,Male,Delhi,Standard,499,21.5,3,0,Sci-Fi,3.2,Laptop,7.2,No
+10043,50,Female,Bengaluru,Basic,199,75.4,22,7,Romance,4.4,Laptop,6.0,No
+10044,35,Male,Jaipur,Basic,199,51.4,17,5,Action,3.7,Laptop,9.9,No
+10045,45,Female,Surat,Basic,199,78.7,16,6,Crime,4.2,Laptop,9.2,No
+10046,37,Male,Ahmedabad,Basic,199,34.0,1,2,Thriller,3.8,Laptop,3.0,Yes
+10047,28,Male,Surat,Premium,799,142.3,42,16,Documentary,4.7,Mobile,4.5,No
+10048,23,Female,Mumbai,Premium,799,128.3,33,9,Thriller,4.5,Smart TV,5.0,Yes
+10049,26,Female,Mumbai,Standard,499,84.2,25,7,Comedy,4.9,Mobile,7.4,No
+10050,51,Female,Hyderabad,Standard,499,97.8,18,8,Comedy,4.4,Smart TV,6.4,No
+10051,56,Female,Delhi,Basic,199,38.7,22,5,Romance,4.4,Laptop,4.5,No
+10052,47,Male,Surat,Standard,499,50.4,2,5,Comedy,3.1,Mobile,9.1,No
+10053,60,Male,Ahmedabad,Premium,799,68.9,16,6,Documentary,4.4,Mobile,4.9,No
+10054,49,Male,Delhi,Standard,499,35.9,16,4,Thriller,3.5,Laptop,7.1,No
+10055,29,Female,Delhi,Basic,199,39.9,15,4,Action,3.7,Laptop,3.8,No
+10056,34,Female,Pune,Basic,199,37.5,8,3,Action,4.7,Tablet,5.1,Yes
+10057,41,Female,Surat,Standard,499,66.7,13,11,Romance,4.0,Smart TV,4.0,No
+10058,52,Male,Jaipur,Basic,199,61.5,16,4,Documentary,4.1,Mobile,5.4,No
+10059,42,Female,Surat,Basic,199,73.8,19,4,Comedy,4.3,Mobile,1.3,No
+10060,58,Male,Hyderabad,Standard,499,81.9,16,7,Sci-Fi,5.0,Laptop,6.1,No
+10061,47,Male,Kolkata,Standard,499,79.7,11,6,Documentary,3.8,Mobile,3.6,No
+10062,21,Male,Hyderabad,Basic,199,5.0,4,0,Romance,3.2,Mobile,9.8,No
+10063,22,Female,Surat,Standard,499,100.4,27,6,Romance,5.0,Tablet,7.3,No
+10064,28,Male,Pune,Basic,199,17.4,4,0,Thriller,4.0,Smart TV,1.6,No
+10065,37,Male,Bengaluru,Standard,499,61.3,4,3,Action,4.2,Mobile,5.7,No
+10066,28,Male,Delhi,Basic,199,97.8,21,8,Sci-Fi,5.0,Smart TV,8.0,No
+10067,47,Male,Bengaluru,Basic,199,59.8,22,6,Thriller,3.9,Mobile,8.5,No
+10068,57,Female,Ahmedabad,Basic,199,64.8,17,9,Thriller,4.5,Laptop,3.5,No
+10069,57,Male,Chennai,Standard,499,130.0,24,14,Comedy,3.9,Laptop,3.9,Yes
+10070,56,Male,Pune,Premium,799,75.6,24,8,Thriller,4.8,Laptop,1.8,No
+10071,27,Male,Hyderabad,Standard,499,104.3,29,11,Romance,4.2,Mobile,1.9,No
+10072,48,Male,Ahmedabad,Basic,199,75.7,16,9,Sci-Fi,3.9,Tablet,1.9,No
+10073,43,Female,Surat,Standard,499,109.5,29,8,Thriller,4.3,Tablet,9.6,No
+10074,54,Female,Surat,Standard,499,74.9,18,7,Action,4.5,Tablet,8.8,No
+10075,57,Male,Bengaluru,Basic,199,37.5,6,2,Documentary,4.3,Mobile,2.3,Yes
+10076,55,Female,Chennai,Standard,499,95.4,20,9,Drama,4.1,Smart TV,6.2,No
+10077,23,Male,Kolkata,Standard,499,42.4,9,3,Action,3.8,Mobile,4.8,No
+10078,37,Female,Hyderabad,Standard,499,57.3,10,6,Sci-Fi,4.1,Smart TV,2.5,No
+10079,49,Female,Mumbai,Premium,799,197.2,49,18,Thriller,5.0,Mobile,1.1,No
+10080,47,Female,Ahmedabad,Standard,499,62.2,16,8,Documentary,3.1,Tablet,7.9,No
+10081,24,Male,Kolkata,Basic,199,21.8,1,1,Action,3.7,Mobile,6.6,Yes
+10082,50,Female,Kolkata,Basic,199,64.4,10,6,Drama,4.1,Smart TV,0.7,No
+10083,48,Male,Delhi,Basic,199,64.2,18,9,Documentary,3.7,Laptop,8.4,No
+10084,40,Male,Pune,Basic,199,56.5,7,3,Thriller,3.7,Mobile,4.5,No
+10085,34,Female,Ahmedabad,Basic,199,8.4,10,2,Action,3.6,Laptop,3.3,No
+10086,46,Male,Delhi,Standard,499,60.1,23,4,Documentary,4.8,Mobile,2.6,No
+10087,59,Female,Bengaluru,Basic,199,17.4,7,3,Comedy,3.9,Mobile,5.8,Yes
+10088,38,Female,Surat,Basic,199,31.9,12,8,Romance,3.7,Tablet,6.5,No
+10089,56,Female,Ahmedabad,Basic,199,52.9,12,4,Romance,4.5,Laptop,1.1,No
+10090,62,Male,Delhi,Basic,199,14.9,3,2,Action,3.5,Laptop,5.6,No
+10091,52,Male,Delhi,Standard,499,48.3,5,6,Thriller,4.6,Tablet,4.4,No
+10092,41,Male,Kolkata,Standard,499,95.5,16,6,Documentary,4.4,Mobile,3.9,No
+10093,58,Male,Surat,Standard,499,100.9,32,10,Documentary,4.8,Tablet,9.8,No
+10094,40,Male,Delhi,Standard,499,100.5,25,7,Documentary,4.9,Laptop,0.8,No
+10095,62,Female,Ahmedabad,Basic,199,77.1,5,5,Thriller,4.8,Smart TV,6.6,No
+10096,35,Male,Surat,Basic,199,44.8,11,7,Sci-Fi,4.0,Laptop,3.5,No
+10097,56,Female,Pune,Basic,199,55.1,13,4,Thriller,3.6,Laptop,0.5,No
+10098,56,Female,Bengaluru,Basic,199,49.5,9,3,Action,3.4,Laptop,6.0,Yes
+10099,63,Male,Jaipur,Basic,199,12.8,1,2,Documentary,4.3,Mobile,8.6,Yes
+10100,24,Female,Pune,Basic,199,37.0,13,5,Comedy,4.0,Tablet,6.1,No
+10101,20,Female,Hyderabad,Premium,799,155.0,46,14,Thriller,4.8,Mobile,5.4,No
+10102,35,Female,Mumbai,Standard,499,82.4,13,4,Crime,4.4,Smart TV,6.2,No
+10103,58,Female,Ahmedabad,Premium,799,98.8,21,12,Comedy,5.0,Tablet,5.6,Yes
+10104,55,Female,Bengaluru,Standard,499,78.3,18,6,Crime,4.7,Laptop,9.4,No
+10105,50,Female,Kolkata,Standard,499,102.7,25,11,Comedy,5.0,Tablet,5.9,No
+10106,24,Male,Surat,Standard,499,100.5,27,12,Action,5.0,Smart TV,7.1,No
+10107,19,Female,Mumbai,Premium,799,126.9,30,15,Action,4.9,Mobile,0.5,No
+10108,45,Female,Bengaluru,Basic,199,45.6,12,4,Thriller,3.8,Laptop,3.2,No
+10109,18,Female,Surat,Premium,799,106.6,27,9,Crime,4.6,Smart TV,3.4,No
+10110,64,Male,Ahmedabad,Premium,799,180.6,41,16,Comedy,5.0,Laptop,6.1,No
+10111,49,Female,Pune,Basic,199,47.7,5,7,Romance,4.0,Smart TV,9.5,No
+10112,20,Male,Mumbai,Basic,199,63.0,15,3,Drama,4.8,Tablet,4.5,No
+10113,44,Female,Jaipur,Standard,499,60.5,18,7,Action,4.8,Mobile,8.7,No
+10114,20,Female,Jaipur,Standard,499,94.2,25,7,Romance,4.6,Laptop,7.7,Yes
+10115,19,Female,Kolkata,Standard,499,44.3,14,3,Comedy,3.8,Tablet,5.8,No
+10116,55,Male,Kolkata,Standard,499,68.7,5,8,Comedy,3.7,Laptop,6.2,No
+10117,50,Female,Mumbai,Standard,499,71.9,18,5,Action,3.8,Mobile,5.1,No
+10118,61,Male,Kolkata,Basic,199,30.0,6,4,Comedy,4.0,Mobile,5.9,Yes
+10119,64,Male,Chennai,Standard,499,81.5,17,8,Comedy,4.6,Tablet,7.2,No
+10120,29,Male,Jaipur,Standard,499,113.8,30,14,Thriller,4.5,Smart TV,5.1,No
+10121,39,Male,Kolkata,Basic,199,60.5,12,11,Action,4.1,Smart TV,6.8,No
+10122,41,Female,Bengaluru,Standard,499,95.3,18,11,Sci-Fi,4.4,Tablet,1.2,No
+10123,51,Female,Hyderabad,Basic,199,54.5,18,5,Documentary,4.8,Laptop,4.7,No
+10124,43,Female,Pune,Premium,799,93.4,16,11,Crime,4.4,Laptop,4.1,No
+10125,56,Male,Pune,Basic,199,56.5,12,6,Drama,3.9,Smart TV,5.2,No
+10126,53,Male,Chennai,Basic,199,57.5,13,3,Documentary,4.5,Smart TV,3.0,No
+10127,18,Male,Hyderabad,Basic,199,8.1,3,0,Sci-Fi,3.4,Tablet,8.4,No
+10128,32,Female,Pune,Basic,199,66.9,22,7,Drama,4.3,Laptop,5.0,No
+10129,22,Male,Mumbai,Basic,199,64.6,16,6,Comedy,3.7,Laptop,0.9,No
+10130,60,Female,Chennai,Standard,499,68.0,4,6,Sci-Fi,4.3,Laptop,7.0,No
+10131,39,Male,Delhi,Basic,199,31.2,11,1,Action,4.6,Smart TV,6.9,No
+10132,44,Female,Jaipur,Premium,799,116.9,29,12,Romance,4.7,Tablet,2.8,No
+10133,23,Male,Jaipur,Standard,499,96.0,18,8,Action,4.6,Mobile,4.2,No
+10134,21,Female,Ahmedabad,Premium,799,110.0,28,11,Romance,4.3,Laptop,3.2,No
+10135,32,Male,Surat,Standard,499,72.6,25,7,Documentary,3.8,Smart TV,8.3,Yes
+10136,52,Female,Surat,Standard,499,55.2,3,2,Drama,3.8,Laptop,2.8,Yes
+10137,60,Female,Chennai,Standard,499,95.6,24,6,Romance,4.5,Laptop,8.5,No
+10138,21,Female,Bengaluru,Standard,499,99.0,26,9,Sci-Fi,4.7,Laptop,2.8,No
+10139,21,Female,Jaipur,Basic,199,53.6,20,8,Romance,4.3,Smart TV,3.5,No
+10140,53,Female,Pune,Basic,199,56.6,16,7,Romance,3.8,Smart TV,2.3,No
+10141,32,Female,Kolkata,Premium,799,134.3,22,18,Drama,5.0,Mobile,1.6,No
+10142,56,Female,Jaipur,Premium,799,111.7,31,9,Drama,5.0,Smart TV,2.8,No
+10143,34,Female,Bengaluru,Standard,499,135.6,27,14,Documentary,5.0,Smart TV,2.1,No
+10144,52,Male,Bengaluru,Standard,499,41.6,11,3,Drama,4.9,Smart TV,4.2,No
+10145,55,Female,Chennai,Basic,199,84.2,18,10,Thriller,4.1,Laptop,0.7,No
+10146,30,Male,Delhi,Basic,199,72.6,26,4,Sci-Fi,3.7,Mobile,4.3,No
+10147,39,Female,Delhi,Basic,199,23.1,9,0,Documentary,4.0,Tablet,6.1,No
+10148,30,Male,Jaipur,Standard,499,121.8,32,12,Documentary,4.4,Tablet,4.9,No
+10149,57,Female,Bengaluru,Basic,199,75.0,17,2,Sci-Fi,4.1,Tablet,0.5,No
+10150,33,Female,Hyderabad,Standard,499,99.3,19,11,Sci-Fi,4.2,Laptop,1.4,No
+10151,18,Male,Ahmedabad,Basic,199,44.2,9,1,Sci-Fi,3.5,Laptop,3.7,No
+10152,59,Female,Mumbai,Basic,199,57.8,26,6,Drama,4.1,Laptop,9.2,No
+10153,26,Male,Bengaluru,Premium,799,147.6,35,15,Comedy,5.0,Laptop,8.7,No
+10154,18,Female,Hyderabad,Basic,199,64.2,16,2,Romance,4.1,Mobile,6.0,No
+10155,29,Female,Pune,Basic,199,34.0,10,0,Drama,3.9,Mobile,5.0,Yes
+10156,36,Female,Surat,Basic,199,25.8,9,0,Action,3.9,Laptop,6.4,Yes
+10157,45,Female,Ahmedabad,Standard,499,96.1,30,7,Documentary,4.4,Tablet,3.3,Yes
+10158,53,Female,Hyderabad,Standard,499,118.0,36,10,Documentary,4.4,Laptop,2.7,No
+10159,54,Male,Hyderabad,Basic,199,47.4,16,2,Thriller,3.3,Laptop,2.3,No
+10160,22,Male,Bengaluru,Basic,199,45.3,6,8,Drama,4.3,Laptop,8.0,No
+10161,43,Female,Pune,Standard,499,76.9,17,7,Drama,5.0,Tablet,3.0,No
+10162,58,Female,Mumbai,Basic,199,71.8,20,6,Crime,4.6,Mobile,6.3,No
+10163,25,Male,Hyderabad,Premium,799,129.8,31,14,Crime,5.0,Mobile,2.9,No
+10164,30,Female,Jaipur,Standard,499,80.8,16,8,Documentary,5.0,Smart TV,1.9,No
+10165,53,Male,Pune,Standard,499,76.9,19,2,Documentary,4.3,Smart TV,0.8,No
+10166,55,Male,Mumbai,Standard,499,68.7,14,9,Documentary,4.5,Tablet,1.4,No
+10167,58,Male,Surat,Standard,499,44.5,18,5,Documentary,3.6,Laptop,2.5,No
+10168,33,Female,Delhi,Premium,799,96.6,22,9,Comedy,4.1,Laptop,5.0,No
+10169,38,Female,Ahmedabad,Basic,199,29.1,0,4,Romance,3.9,Mobile,4.7,Yes
+10170,25,Female,Kolkata,Standard,499,101.5,22,11,Romance,4.2,Smart TV,8.7,No
+10171,19,Male,Bengaluru,Basic,199,47.1,9,5,Documentary,3.3,Tablet,7.7,No
+10172,20,Male,Hyderabad,Premium,799,120.9,22,12,Comedy,5.0,Smart TV,8.5,No
+10173,18,Female,Bengaluru,Standard,499,88.2,26,8,Comedy,3.9,Mobile,7.7,Yes
+10174,44,Male,Delhi,Basic,199,54.9,12,7,Action,3.7,Tablet,6.7,No
+10175,23,Female,Ahmedabad,Standard,499,76.6,19,4,Thriller,3.8,Laptop,7.7,No
+10176,57,Male,Bengaluru,Basic,199,84.5,19,5,Drama,4.9,Laptop,8.9,No
+10177,54,Female,Surat,Basic,199,41.7,4,4,Documentary,4.3,Tablet,4.3,No
+10178,63,Male,Hyderabad,Standard,499,120.8,34,13,Crime,4.5,Mobile,8.1,No
+10179,45,Male,Jaipur,Standard,499,82.0,27,8,Sci-Fi,4.1,Laptop,4.0,No
+10180,28,Male,Jaipur,Standard,499,126.5,26,12,Drama,4.4,Tablet,8.0,No
+10181,23,Male,Ahmedabad,Basic,199,57.1,14,7,Thriller,4.7,Smart TV,2.1,No
+10182,22,Female,Hyderabad,Basic,199,70.7,16,8,Drama,4.0,Tablet,8.5,No
+10183,59,Female,Hyderabad,Basic,199,44.5,6,3,Sci-Fi,3.9,Smart TV,9.3,No
+10184,61,Male,Pune,Basic,199,45.5,13,3,Crime,4.6,Smart TV,3.1,No
+10185,24,Male,Surat,Basic,199,5.0,5,0,Drama,3.6,Tablet,3.8,No
+10186,36,Male,Jaipur,Standard,499,77.4,31,8,Thriller,4.0,Tablet,9.8,No
+10187,51,Female,Surat,Premium,799,101.8,33,11,Comedy,5.0,Mobile,1.3,No
+10188,39,Female,Jaipur,Standard,499,134.3,38,12,Drama,5.0,Laptop,2.6,No
+10189,27,Male,Ahmedabad,Standard,499,124.2,25,12,Documentary,4.5,Mobile,5.7,No
+10190,38,Male,Hyderabad,Basic,199,35.8,6,3,Sci-Fi,4.5,Tablet,3.6,Yes
+10191,20,Female,Mumbai,Basic,199,51.7,16,8,Drama,4.8,Tablet,7.6,Yes
+10192,29,Female,Kolkata,Standard,499,59.9,4,5,Crime,3.7,Tablet,4.3,No
+10193,59,Female,Pune,Standard,499,126.8,37,14,Romance,4.7,Tablet,8.1,No
+10194,25,Male,Bengaluru,Basic,199,18.7,11,1,Sci-Fi,3.2,Laptop,9.0,No
+10195,30,Female,Pune,Standard,499,80.6,27,8,Sci-Fi,4.3,Laptop,9.7,No
+10196,52,Male,Jaipur,Premium,799,94.1,25,8,Sci-Fi,4.7,Laptop,7.0,No
+10197,51,Female,Ahmedabad,Standard,499,54.8,19,5,Sci-Fi,4.6,Tablet,5.0,No
+10198,64,Female,Surat,Standard,499,68.6,15,5,Comedy,4.8,Mobile,1.3,No
+10199,33,Female,Delhi,Basic,199,81.6,22,7,Comedy,4.6,Tablet,8.2,Yes
+10200,64,Female,Bengaluru,Basic,199,31.5,10,2,Comedy,3.6,Mobile,6.7,No
+10201,35,Male,Mumbai,Basic,199,60.3,15,7,Romance,4.4,Smart TV,8.8,No
+10202,36,Female,Pune,Basic,199,42.4,4,3,Action,3.4,Mobile,4.1,No
+10203,62,Male,Jaipur,Basic,199,57.8,10,6,Comedy,4.4,Tablet,9.7,No
+10204,47,Male,Mumbai,Premium,799,139.8,33,14,Crime,5.0,Tablet,1.6,Yes
+10205,33,Male,Mumbai,Basic,199,17.9,8,3,Crime,4.4,Laptop,3.3,No
+10206,61,Male,Bengaluru,Basic,199,67.0,13,4,Thriller,4.5,Mobile,5.9,No
+10207,29,Female,Jaipur,Premium,799,149.3,39,16,Comedy,5.0,Laptop,8.9,No
+10208,29,Male,Ahmedabad,Basic,199,78.6,18,6,Romance,4.4,Tablet,6.6,No
+10209,34,Male,Hyderabad,Premium,799,164.4,44,15,Drama,5.0,Smart TV,5.3,No
+10210,30,Male,Hyderabad,Basic,199,45.6,1,1,Action,4.3,Laptop,2.4,No
+10211,59,Male,Hyderabad,Basic,199,56.0,15,0,Romance,3.5,Mobile,3.2,No
+10212,30,Female,Ahmedabad,Basic,199,54.3,9,5,Comedy,3.2,Mobile,1.6,No
+10213,50,Male,Surat,Premium,799,108.9,21,11,Documentary,4.9,Tablet,7.4,No
+10214,35,Male,Ahmedabad,Premium,799,124.3,28,11,Documentary,4.4,Tablet,7.0,No
+10215,27,Female,Ahmedabad,Standard,499,74.9,23,6,Comedy,4.9,Mobile,3.6,No
+10216,19,Male,Hyderabad,Basic,199,64.2,17,7,Comedy,4.4,Tablet,6.3,No
+10217,54,Male,Mumbai,Premium,799,136.8,38,12,Documentary,4.8,Smart TV,5.6,No
+10218,47,Female,Delhi,Standard,499,106.2,24,10,Crime,4.2,Smart TV,4.3,No
+10219,41,Male,Delhi,Standard,499,117.4,31,11,Crime,4.6,Tablet,1.4,No
+10220,48,Male,Mumbai,Basic,199,30.7,5,5,Action,4.4,Laptop,0.7,Yes
+10221,22,Female,Kolkata,Premium,799,156.7,39,13,Crime,5.0,Smart TV,6.0,No
+10222,54,Female,Bengaluru,Standard,499,35.8,1,3,Comedy,3.4,Smart TV,3.5,Yes
+10223,49,Female,Hyderabad,Basic,199,50.3,13,2,Sci-Fi,4.1,Mobile,1.3,Yes
+10224,49,Male,Ahmedabad,Basic,199,84.7,32,8,Drama,4.8,Mobile,7.7,No
+10225,52,Male,Delhi,Standard,499,52.1,16,2,Comedy,4.1,Tablet,8.4,No
+10226,34,Male,Pune,Basic,199,72.0,27,6,Romance,3.7,Smart TV,6.4,Yes
+10227,56,Female,Bengaluru,Basic,199,83.3,28,7,Action,4.3,Tablet,3.9,No
+10228,53,Female,Mumbai,Basic,199,47.5,6,7,Romance,4.0,Tablet,9.8,No
+10229,45,Male,Pune,Basic,199,64.8,17,7,Documentary,4.3,Mobile,3.9,No
+10230,39,Male,Ahmedabad,Standard,499,54.4,9,7,Romance,4.4,Laptop,3.5,No
+10231,64,Male,Ahmedabad,Basic,199,30.6,0,1,Drama,3.5,Tablet,8.1,No
+10232,57,Male,Jaipur,Premium,799,116.3,27,11,Drama,4.7,Laptop,6.5,No
+10233,36,Male,Hyderabad,Basic,199,59.4,5,9,Crime,4.4,Laptop,6.5,Yes
+10234,56,Male,Kolkata,Basic,199,79.1,19,4,Documentary,4.0,Laptop,7.2,No
+10235,48,Male,Chennai,Basic,199,73.0,19,6,Documentary,3.7,Tablet,5.7,No
+10236,41,Male,Hyderabad,Basic,199,86.0,27,6,Romance,4.7,Smart TV,1.2,No
+10237,32,Male,Mumbai,Basic,199,54.5,15,6,Drama,4.4,Mobile,4.3,No
+10238,28,Male,Mumbai,Basic,199,69.1,12,8,Comedy,3.8,Smart TV,1.1,No
+10239,29,Male,Bengaluru,Standard,499,85.2,26,8,Action,4.6,Laptop,9.1,No
+10240,60,Male,Bengaluru,Basic,199,64.8,16,4,Action,4.3,Tablet,8.5,No
+10241,59,Male,Bengaluru,Standard,499,82.2,21,8,Romance,4.2,Tablet,3.3,No
+10242,24,Male,Delhi,Basic,199,48.5,17,7,Thriller,4.2,Mobile,1.6,Yes
+10243,40,Male,Delhi,Basic,199,33.4,15,5,Action,4.4,Tablet,8.8,No
+10244,18,Female,Bengaluru,Premium,799,131.2,29,13,Sci-Fi,4.7,Smart TV,9.8,No
+10245,64,Female,Mumbai,Basic,199,15.1,4,1,Sci-Fi,3.3,Laptop,8.4,No
+10246,33,Male,Mumbai,Basic,199,62.3,17,9,Crime,3.9,Tablet,0.9,No
+10247,29,Female,Bengaluru,Premium,799,140.2,38,15,Sci-Fi,4.6,Mobile,1.6,No
+10248,20,Male,Jaipur,Premium,799,125.2,32,7,Thriller,4.4,Laptop,7.9,No
+10249,49,Female,Delhi,Standard,499,62.3,15,6,Comedy,4.1,Smart TV,6.9,No
+10250,62,Male,Bengaluru,Standard,499,63.2,18,7,Crime,4.2,Tablet,7.4,No
+10251,64,Male,Jaipur,Premium,799,133.2,28,13,Romance,5.0,Laptop,8.2,No
+10252,51,Male,Surat,Standard,499,79.9,23,7,Thriller,4.1,Laptop,2.7,No
+10253,47,Female,Kolkata,Basic,199,66.8,13,2,Sci-Fi,4.8,Mobile,4.9,Yes
+10254,36,Male,Chennai,Basic,199,59.0,16,2,Romance,4.3,Laptop,2.8,No
+10255,25,Male,Surat,Basic,199,33.6,14,4,Crime,3.8,Laptop,7.1,No
+10256,39,Female,Jaipur,Standard,499,98.0,18,10,Thriller,4.0,Laptop,6.8,No
+10257,39,Male,Jaipur,Standard,499,102.4,15,10,Thriller,4.0,Smart TV,8.1,No
+10258,47,Male,Ahmedabad,Premium,799,119.8,33,16,Action,4.6,Smart TV,5.4,Yes
+10259,18,Female,Surat,Standard,499,109.8,24,7,Thriller,5.0,Tablet,2.9,No
+10260,22,Female,Kolkata,Basic,199,19.5,5,1,Comedy,4.0,Mobile,0.9,No
+10261,59,Female,Delhi,Standard,499,59.9,19,5,Sci-Fi,4.5,Mobile,3.9,No
+10262,57,Male,Pune,Standard,499,66.2,11,1,Drama,4.2,Mobile,8.6,No
+10263,22,Male,Bengaluru,Standard,499,56.2,16,2,Romance,4.2,Mobile,8.8,No
+10264,39,Male,Pune,Basic,199,63.8,3,4,Sci-Fi,3.7,Tablet,1.0,No
+10265,42,Female,Ahmedabad,Basic,199,74.3,22,3,Romance,4.0,Mobile,8.6,No
+10266,51,Male,Jaipur,Basic,199,79.2,11,8,Action,4.0,Smart TV,6.8,No
+10267,18,Male,Jaipur,Standard,499,24.0,4,0,Comedy,3.9,Tablet,9.5,No
+10268,58,Male,Jaipur,Premium,799,83.8,20,7,Thriller,4.7,Laptop,2.2,Yes
+10269,32,Female,Pune,Basic,199,71.2,22,7,Drama,4.5,Mobile,5.8,No
+10270,36,Male,Mumbai,Basic,199,19.6,3,2,Thriller,4.2,Smart TV,7.2,No
+10271,39,Male,Jaipur,Standard,499,90.5,21,11,Thriller,5.0,Tablet,8.2,No
+10272,28,Male,Mumbai,Basic,199,72.2,27,6,Romance,4.3,Mobile,8.4,No
+10273,39,Male,Delhi,Basic,199,55.3,18,4,Romance,4.0,Smart TV,2.8,No
+10274,41,Female,Surat,Basic,199,38.8,11,4,Action,4.4,Mobile,7.9,No
+10275,35,Female,Pune,Basic,199,58.1,14,6,Action,4.1,Mobile,1.5,No
+10276,27,Female,Hyderabad,Basic,199,20.1,1,0,Drama,3.6,Smart TV,2.5,Yes
+10277,51,Female,Ahmedabad,Standard,499,77.1,15,5,Romance,4.2,Smart TV,7.1,No
+10278,21,Male,Ahmedabad,Standard,499,128.7,29,9,Drama,4.9,Mobile,6.0,Yes
+10279,62,Female,Chennai,Basic,199,45.7,12,6,Action,4.4,Mobile,6.1,No
+10280,34,Female,Delhi,Standard,499,77.3,21,8,Comedy,3.9,Laptop,8.5,No
+10281,45,Male,Jaipur,Basic,199,57.0,15,0,Action,4.3,Laptop,8.3,No
+10282,60,Female,Delhi,Standard,499,94.7,18,9,Crime,4.4,Smart TV,8.3,Yes
+10283,30,Female,Ahmedabad,Standard,499,97.1,31,10,Drama,4.7,Laptop,6.9,No
+10284,42,Male,Mumbai,Standard,499,83.9,29,9,Sci-Fi,4.3,Tablet,1.2,No
+10285,60,Male,Delhi,Premium,799,107.4,33,12,Drama,4.7,Smart TV,8.8,No
+10286,21,Female,Mumbai,Basic,199,42.3,10,2,Documentary,3.9,Smart TV,3.4,No
+10287,62,Male,Pune,Basic,199,24.9,10,3,Comedy,3.3,Smart TV,2.0,No
+10288,62,Male,Chennai,Premium,799,176.1,34,17,Crime,5.0,Mobile,2.9,No
+10289,39,Male,Hyderabad,Basic,199,51.7,1,7,Thriller,3.2,Laptop,9.4,No
+10290,64,Female,Chennai,Premium,799,104.7,15,5,Thriller,4.1,Mobile,4.4,No
+10291,60,Female,Surat,Standard,499,82.5,26,8,Comedy,3.6,Laptop,8.0,No
+10292,64,Female,Ahmedabad,Basic,199,72.4,27,5,Romance,3.8,Smart TV,1.6,No
+10293,57,Male,Surat,Standard,499,86.5,21,9,Action,4.5,Mobile,4.4,No
+10294,46,Male,Kolkata,Standard,499,105.4,25,8,Drama,4.6,Mobile,6.5,No
+10295,34,Male,Jaipur,Basic,199,67.2,15,1,Comedy,4.3,Mobile,2.4,Yes
+10296,18,Male,Jaipur,Basic,199,44.7,12,5,Romance,4.2,Tablet,7.3,No
+10297,32,Male,Bengaluru,Basic,199,42.2,7,6,Romance,3.9,Laptop,5.5,No
+10298,35,Female,Hyderabad,Standard,499,46.5,11,4,Documentary,4.4,Tablet,7.6,No
+10299,21,Male,Pune,Premium,799,63.7,19,3,Comedy,3.5,Laptop,2.6,Yes
+10300,51,Male,Kolkata,Basic,199,46.3,14,3,Documentary,4.4,Tablet,8.4,No
+10301,34,Male,Bengaluru,Basic,199,59.1,22,7,Comedy,4.3,Tablet,7.9,No
+10302,48,Male,Bengaluru,Standard,499,119.5,24,9,Crime,4.6,Laptop,3.8,No
+10303,25,Female,Jaipur,Premium,799,175.9,49,21,Crime,5.0,Mobile,2.0,No
+10304,35,Female,Mumbai,Basic,199,67.0,15,4,Crime,4.8,Laptop,5.3,No
+10305,63,Male,Pune,Standard,499,82.5,20,5,Documentary,4.0,Laptop,6.5,No
+10306,25,Male,Bengaluru,Basic,199,62.3,18,7,Documentary,4.4,Laptop,4.9,No
+10307,63,Male,Kolkata,Basic,199,43.3,13,4,Crime,3.8,Smart TV,5.8,No
+10308,62,Male,Ahmedabad,Premium,799,105.9,29,12,Documentary,4.8,Smart TV,6.0,No
+10309,52,Female,Hyderabad,Basic,199,53.4,13,4,Documentary,4.5,Laptop,9.0,Yes
+10310,22,Male,Surat,Premium,799,89.0,27,8,Comedy,4.4,Mobile,1.8,No
+10311,40,Female,Delhi,Basic,199,76.9,23,8,Documentary,3.8,Tablet,6.9,No
+10312,35,Female,Chennai,Standard,499,95.6,28,9,Comedy,4.2,Mobile,6.1,No
+10313,24,Female,Mumbai,Standard,499,83.9,18,8,Documentary,4.0,Tablet,9.8,No
+10314,29,Female,Hyderabad,Standard,499,129.7,29,14,Sci-Fi,5.0,Laptop,8.5,No
+10315,43,Male,Kolkata,Premium,799,133.2,33,15,Sci-Fi,5.0,Tablet,8.9,No
+10316,63,Female,Chennai,Standard,499,70.5,18,7,Crime,4.5,Mobile,2.7,No
+10317,48,Male,Jaipur,Premium,799,89.6,29,7,Crime,4.1,Smart TV,8.1,No
+10318,61,Female,Delhi,Premium,799,114.5,26,11,Comedy,4.3,Tablet,1.1,Yes
+10319,27,Male,Mumbai,Basic,199,74.6,5,8,Sci-Fi,3.8,Mobile,9.9,No
+10320,55,Female,Kolkata,Basic,199,54.0,14,7,Crime,4.6,Laptop,1.2,No
+10321,51,Male,Hyderabad,Basic,199,46.8,16,7,Thriller,3.7,Mobile,9.9,No
+10322,34,Female,Jaipur,Standard,499,108.2,30,11,Crime,3.8,Tablet,8.7,No
+10323,52,Female,Delhi,Basic,199,5.0,11,4,Crime,3.8,Smart TV,6.7,No
+10324,31,Male,Hyderabad,Standard,499,90.8,9,12,Sci-Fi,4.4,Tablet,9.1,No
+10325,45,Male,Hyderabad,Standard,499,116.9,23,9,Drama,4.8,Tablet,1.8,No
+10326,48,Male,Bengaluru,Basic,199,27.9,8,1,Romance,4.3,Tablet,4.1,Yes
+10327,59,Female,Mumbai,Standard,499,62.9,12,4,Sci-Fi,3.8,Tablet,8.8,Yes
+10328,62,Male,Kolkata,Standard,499,76.5,13,7,Crime,3.9,Smart TV,3.8,No
+10329,35,Male,Mumbai,Basic,199,48.6,16,3,Romance,4.2,Smart TV,4.9,No
+10330,34,Female,Ahmedabad,Premium,799,163.8,36,18,Sci-Fi,5.0,Smart TV,5.0,Yes
+10331,64,Male,Ahmedabad,Premium,799,135.2,53,13,Comedy,4.6,Laptop,1.0,No
+10332,59,Female,Ahmedabad,Basic,199,41.4,0,4,Comedy,4.1,Smart TV,7.8,No
+10333,55,Male,Ahmedabad,Basic,199,35.4,12,5,Romance,3.9,Tablet,6.9,No
+10334,45,Male,Mumbai,Standard,499,62.4,9,6,Romance,4.2,Smart TV,0.8,No
+10335,53,Female,Pune,Basic,199,67.5,9,2,Drama,4.2,Tablet,6.2,No
+10336,45,Male,Surat,Standard,499,59.7,5,4,Drama,3.9,Tablet,8.0,No
+10337,42,Male,Delhi,Premium,799,139.2,33,11,Comedy,5.0,Laptop,1.1,No
+10338,32,Male,Jaipur,Basic,199,23.7,10,1,Thriller,3.6,Tablet,2.2,No
+10339,18,Female,Jaipur,Basic,199,68.6,15,6,Drama,4.4,Laptop,9.0,No
+10340,32,Female,Surat,Premium,799,150.6,39,14,Romance,4.5,Tablet,8.3,No
+10341,40,Female,Delhi,Standard,499,108.8,36,10,Thriller,4.5,Tablet,4.2,No
+10342,28,Male,Bengaluru,Premium,799,176.9,45,19,Drama,5.0,Mobile,4.4,Yes
+10343,57,Female,Ahmedabad,Basic,199,35.4,7,4,Romance,3.8,Smart TV,6.1,No
+10344,42,Female,Mumbai,Standard,499,36.4,12,0,Documentary,3.5,Laptop,9.4,Yes
+10345,55,Male,Kolkata,Basic,199,21.7,8,4,Romance,3.5,Smart TV,6.0,No
+10346,31,Male,Kolkata,Basic,199,26.3,7,4,Thriller,3.7,Smart TV,8.4,No
+10347,43,Male,Bengaluru,Premium,799,96.2,12,10,Drama,4.6,Tablet,3.4,No
+10348,60,Male,Ahmedabad,Basic,199,73.8,26,5,Action,3.9,Smart TV,3.7,No
+10349,60,Female,Mumbai,Basic,199,6.3,7,1,Comedy,4.0,Tablet,8.4,No
+10350,33,Female,Pune,Standard,499,138.3,44,12,Thriller,4.5,Laptop,3.1,No
+10351,62,Female,Kolkata,Basic,199,53.1,18,8,Documentary,4.0,Tablet,2.7,No
+10352,46,Male,Delhi,Standard,499,42.1,5,3,Comedy,3.7,Laptop,3.2,Yes
+10353,49,Female,Delhi,Basic,199,53.0,19,1,Documentary,3.6,Tablet,8.5,No
+10354,60,Male,Pune,Standard,499,92.5,21,9,Documentary,4.8,Tablet,2.5,No
+10355,28,Male,Surat,Basic,199,59.0,12,3,Comedy,4.0,Mobile,8.3,No
+10356,40,Female,Jaipur,Standard,499,112.1,33,8,Sci-Fi,4.8,Laptop,1.6,No
+10357,58,Male,Ahmedabad,Basic,199,79.9,17,7,Sci-Fi,4.0,Tablet,9.0,No
+10358,28,Female,Mumbai,Basic,199,42.5,8,3,Comedy,4.2,Laptop,8.7,Yes
+10359,19,Female,Kolkata,Premium,799,99.3,30,7,Documentary,5.0,Smart TV,2.9,No
+10360,53,Male,Kolkata,Basic,199,37.4,9,4,Thriller,4.1,Laptop,4.5,Yes
+10361,53,Male,Pune,Basic,199,10.3,0,0,Comedy,3.5,Mobile,8.8,Yes
+10362,39,Female,Delhi,Standard,499,95.2,27,8,Thriller,4.2,Laptop,2.0,No
+10363,64,Female,Jaipur,Basic,199,81.4,16,5,Documentary,4.6,Smart TV,2.3,No
+10364,37,Male,Bengaluru,Basic,199,65.2,10,8,Romance,4.4,Laptop,8.3,No
+10365,38,Male,Ahmedabad,Basic,199,54.9,0,4,Documentary,3.6,Mobile,1.6,No
+10366,56,Male,Kolkata,Standard,499,37.9,0,3,Action,4.7,Smart TV,6.4,No
+10367,43,Male,Kolkata,Standard,499,56.2,10,6,Drama,3.9,Smart TV,7.8,No
+10368,33,Male,Hyderabad,Premium,799,140.5,34,16,Action,5.0,Tablet,3.6,No
+10369,56,Female,Delhi,Standard,499,89.2,16,11,Action,4.6,Smart TV,4.4,No
+10370,41,Male,Surat,Standard,499,66.4,12,7,Romance,4.5,Laptop,6.8,No
+10371,39,Female,Pune,Premium,799,127.9,30,13,Crime,4.7,Mobile,8.7,No
+10372,22,Female,Bengaluru,Basic,199,57.5,19,7,Crime,3.8,Smart TV,6.0,Yes
+10373,58,Female,Delhi,Standard,499,109.1,21,9,Thriller,4.4,Mobile,5.8,Yes
+10374,40,Female,Kolkata,Premium,799,79.6,24,9,Thriller,3.5,Smart TV,3.3,No
+10375,44,Male,Kolkata,Premium,799,123.7,35,15,Documentary,4.3,Mobile,8.2,No
+10376,64,Male,Mumbai,Basic,199,49.4,13,7,Drama,4.1,Mobile,5.6,No
+10377,37,Male,Pune,Premium,799,169.7,46,18,Action,5.0,Smart TV,4.0,No
+10378,39,Male,Ahmedabad,Premium,799,172.8,43,16,Crime,4.5,Tablet,6.4,No
+10379,56,Male,Chennai,Standard,499,34.8,9,5,Romance,3.5,Smart TV,3.3,No
+10380,57,Female,Pune,Standard,499,129.3,32,14,Romance,4.2,Smart TV,2.9,No
+10381,54,Female,Bengaluru,Basic,199,39.6,20,4,Crime,4.6,Tablet,2.3,No
+10382,63,Female,Hyderabad,Basic,199,65.3,21,4,Action,4.8,Smart TV,3.6,No
+10383,31,Female,Ahmedabad,Standard,499,99.3,16,9,Romance,5.0,Tablet,3.8,Yes
+10384,55,Female,Chennai,Premium,799,58.1,11,2,Action,3.5,Laptop,4.3,No
+10385,44,Female,Mumbai,Standard,499,72.6,16,7,Action,3.5,Tablet,2.2,No
+10386,26,Male,Ahmedabad,Basic,199,60.1,11,6,Crime,3.8,Mobile,2.5,No
+10387,46,Female,Ahmedabad,Basic,199,55.5,4,3,Documentary,4.2,Smart TV,6.9,No
+10388,47,Female,Delhi,Basic,199,34.9,9,4,Sci-Fi,4.4,Tablet,9.4,No
+10389,54,Female,Jaipur,Premium,799,98.8,29,10,Drama,3.5,Mobile,9.4,No
+10390,19,Female,Chennai,Basic,199,60.6,21,6,Thriller,3.5,Tablet,3.7,No
+10391,28,Female,Delhi,Basic,199,66.8,17,6,Sci-Fi,3.6,Mobile,4.1,Yes
+10392,26,Female,Hyderabad,Standard,499,78.6,23,7,Crime,4.3,Mobile,4.7,No
+10393,64,Male,Ahmedabad,Standard,499,83.5,28,7,Drama,4.4,Tablet,2.7,No
+10394,38,Male,Kolkata,Basic,199,16.7,11,0,Documentary,3.4,Tablet,8.6,No
+10395,60,Female,Kolkata,Standard,499,83.9,26,12,Crime,4.6,Mobile,9.6,Yes
+10396,60,Female,Bengaluru,Basic,199,48.2,11,1,Comedy,4.0,Mobile,1.7,No
+10397,57,Female,Pune,Basic,199,69.6,6,4,Sci-Fi,4.9,Mobile,1.2,No
+10398,37,Female,Delhi,Basic,199,51.0,15,5,Documentary,3.6,Laptop,9.7,No
+10399,28,Male,Ahmedabad,Standard,499,44.9,24,4,Documentary,3.8,Mobile,9.3,No
+10400,29,Male,Mumbai,Standard,499,137.7,33,13,Comedy,4.9,Tablet,7.5,No
+10401,39,Female,Ahmedabad,Premium,799,96.1,26,5,Sci-Fi,4.9,Mobile,4.5,No
+10402,40,Male,Mumbai,Basic,199,77.4,13,4,Thriller,3.9,Mobile,5.1,No
+10403,37,Male,Hyderabad,Basic,199,28.7,3,1,Comedy,4.1,Mobile,1.2,No
+10404,45,Male,Jaipur,Standard,499,47.5,10,4,Drama,3.5,Mobile,5.4,No
+10405,20,Male,Bengaluru,Basic,199,66.7,15,6,Comedy,3.9,Mobile,2.8,No
+10406,62,Male,Delhi,Basic,199,67.1,27,8,Action,4.2,Tablet,4.4,No
+10407,51,Female,Kolkata,Standard,499,72.6,24,7,Documentary,4.6,Laptop,7.6,No
+10408,59,Female,Jaipur,Basic,199,92.5,29,7,Sci-Fi,4.5,Laptop,4.6,Yes
+10409,21,Male,Ahmedabad,Basic,199,74.8,16,10,Action,4.7,Tablet,0.6,No
+10410,20,Female,Jaipur,Standard,499,106.6,29,8,Romance,4.8,Mobile,8.9,No
+10411,56,Female,Chennai,Basic,199,42.1,3,8,Thriller,4.0,Smart TV,3.9,No
+10412,62,Female,Jaipur,Basic,199,67.3,15,5,Thriller,3.8,Laptop,1.9,Yes
+10413,36,Female,Ahmedabad,Standard,499,80.6,12,11,Romance,3.9,Smart TV,3.5,No
+10414,36,Female,Pune,Premium,799,133.9,35,15,Documentary,4.5,Laptop,8.1,No
+10415,59,Male,Chennai,Basic,199,49.5,8,3,Comedy,3.5,Laptop,1.5,No
+10416,41,Male,Surat,Standard,499,91.1,18,6,Documentary,4.9,Smart TV,9.5,No
+10417,37,Female,Hyderabad,Basic,199,49.7,11,2,Comedy,4.3,Smart TV,1.3,No
+10418,57,Male,Mumbai,Basic,199,70.6,22,8,Comedy,4.1,Tablet,6.9,No
+10419,58,Male,Mumbai,Premium,799,86.4,19,5,Comedy,4.4,Tablet,8.4,No
+10420,48,Male,Mumbai,Premium,799,136.0,38,14,Sci-Fi,5.0,Tablet,1.5,No
+10421,25,Male,Ahmedabad,Basic,199,18.9,9,1,Romance,3.5,Smart TV,3.6,No
+10422,35,Female,Chennai,Premium,799,117.3,29,12,Thriller,4.0,Smart TV,1.0,No
+10423,47,Male,Pune,Standard,499,51.6,13,4,Thriller,4.0,Mobile,9.8,No
+10424,19,Female,Bengaluru,Standard,499,92.8,20,6,Documentary,3.5,Laptop,6.7,No
+10425,19,Male,Pune,Standard,499,101.5,23,8,Romance,5.0,Tablet,3.0,No
+10426,18,Female,Pune,Basic,199,61.0,18,6,Sci-Fi,4.4,Mobile,7.5,No
+10427,30,Male,Bengaluru,Basic,199,78.6,12,7,Comedy,4.1,Smart TV,7.3,No
+10428,24,Female,Delhi,Premium,799,129.3,34,13,Drama,4.6,Smart TV,6.9,Yes
+10429,29,Female,Ahmedabad,Standard,499,86.2,13,6,Crime,4.9,Smart TV,9.9,Yes
+10430,47,Male,Hyderabad,Basic,199,52.3,7,3,Comedy,4.0,Tablet,2.3,No
+10431,55,Female,Chennai,Premium,799,127.9,40,15,Action,4.4,Smart TV,8.5,No
+10432,54,Male,Ahmedabad,Standard,499,87.9,17,9,Action,4.2,Smart TV,1.7,No
+10433,60,Male,Jaipur,Standard,499,75.4,13,6,Comedy,4.2,Smart TV,5.1,No
+10434,34,Male,Hyderabad,Premium,799,122.6,43,16,Romance,4.2,Tablet,8.8,No
+10435,40,Female,Chennai,Basic,199,34.2,10,2,Documentary,4.1,Tablet,4.3,Yes
+10436,50,Female,Chennai,Premium,799,147.0,42,15,Romance,4.7,Smart TV,8.6,No
+10437,24,Male,Surat,Standard,499,119.3,29,10,Crime,5.0,Smart TV,6.5,No
+10438,51,Female,Pune,Premium,799,113.9,25,8,Thriller,5.0,Laptop,3.5,No
+10439,49,Male,Mumbai,Basic,199,59.2,14,7,Crime,4.1,Laptop,6.7,No
+10440,43,Male,Surat,Standard,499,22.5,3,0,Action,3.6,Mobile,5.4,No
+10441,41,Male,Pune,Basic,199,21.4,6,3,Action,3.5,Mobile,5.7,No
+10442,37,Male,Delhi,Basic,199,56.4,22,8,Action,5.0,Mobile,8.9,No
+10443,45,Male,Chennai,Premium,799,200.3,50,19,Comedy,5.0,Laptop,6.0,No
+10444,59,Male,Mumbai,Premium,799,64.7,11,5,Sci-Fi,3.0,Mobile,9.6,No
+10445,53,Female,Kolkata,Basic,199,72.4,13,8,Thriller,4.7,Laptop,8.1,No
+10446,33,Female,Chennai,Basic,199,47.5,9,7,Action,3.8,Laptop,6.9,No
+10447,43,Male,Delhi,Standard,499,63.6,11,3,Romance,4.1,Tablet,7.6,No
+10448,45,Female,Pune,Standard,499,81.5,25,7,Crime,3.7,Laptop,7.2,No
+10449,63,Male,Chennai,Basic,199,22.3,0,3,Sci-Fi,3.5,Tablet,4.2,No
+10450,39,Female,Pune,Standard,499,81.5,22,7,Comedy,4.4,Laptop,3.7,No
+10451,24,Male,Bengaluru,Standard,499,65.1,4,8,Comedy,4.0,Smart TV,8.6,Yes
+10452,38,Female,Bengaluru,Basic,199,60.3,10,3,Action,4.3,Smart TV,5.6,No
+10453,63,Female,Jaipur,Standard,499,83.4,22,10,Drama,3.9,Laptop,3.4,No
+10454,35,Male,Ahmedabad,Basic,199,61.6,18,8,Drama,4.5,Tablet,5.1,No
+10455,25,Female,Bengaluru,Standard,499,48.1,13,7,Sci-Fi,4.6,Laptop,6.8,No
+10456,39,Male,Delhi,Premium,799,145.1,32,16,Romance,5.0,Smart TV,4.2,No
+10457,27,Male,Surat,Premium,799,74.6,14,7,Romance,4.3,Mobile,7.4,No
+10458,56,Female,Mumbai,Standard,499,75.4,16,5,Comedy,4.0,Laptop,6.9,No
+10459,57,Female,Chennai,Basic,199,35.7,5,1,Thriller,3.9,Smart TV,5.3,Yes
+10460,35,Female,Kolkata,Basic,199,73.6,17,6,Crime,4.2,Mobile,3.0,No
+10461,30,Female,Jaipur,Premium,799,104.9,19,10,Sci-Fi,5.0,Laptop,9.9,No
+10462,25,Female,Jaipur,Standard,499,51.2,0,3,Crime,3.6,Mobile,7.7,No
+10463,19,Male,Delhi,Basic,199,46.3,9,2,Thriller,4.0,Mobile,2.6,No
+10464,26,Female,Bengaluru,Standard,499,85.9,18,6,Thriller,4.4,Mobile,9.4,No
+10465,45,Female,Ahmedabad,Basic,199,30.5,12,2,Documentary,4.3,Smart TV,3.5,No
+10466,62,Male,Mumbai,Basic,199,46.7,19,3,Comedy,4.0,Smart TV,2.6,No
+10467,42,Female,Surat,Basic,199,44.2,9,7,Thriller,3.2,Tablet,7.8,Yes
+10468,63,Female,Chennai,Premium,799,122.4,26,14,Drama,4.6,Mobile,9.2,No
+10469,27,Male,Jaipur,Standard,499,94.0,22,11,Documentary,4.0,Laptop,3.1,No
+10470,51,Female,Bengaluru,Basic,199,21.4,2,1,Comedy,3.6,Mobile,2.4,No
+10471,32,Female,Surat,Premium,799,99.7,19,13,Crime,3.9,Tablet,7.7,No
+10472,43,Male,Hyderabad,Basic,199,32.4,0,3,Documentary,4.2,Laptop,6.8,No
+10473,60,Female,Chennai,Basic,199,62.7,7,6,Crime,4.7,Mobile,2.9,No
+10474,53,Male,Hyderabad,Standard,499,113.5,30,8,Action,3.6,Laptop,8.7,No
+10475,34,Female,Bengaluru,Premium,799,138.8,36,12,Thriller,5.0,Smart TV,2.6,No
+10476,61,Male,Pune,Basic,199,44.1,9,4,Comedy,4.5,Laptop,3.3,No
+10477,44,Female,Ahmedabad,Premium,799,119.5,28,11,Thriller,4.4,Tablet,3.6,No
+10478,36,Female,Delhi,Basic,199,52.2,14,6,Action,4.0,Mobile,7.8,No
+10479,18,Male,Surat,Standard,499,76.0,23,2,Comedy,4.1,Mobile,5.6,No
+10480,46,Male,Mumbai,Premium,799,122.0,27,11,Action,4.0,Mobile,9.0,No
+10481,61,Male,Delhi,Basic,199,34.1,9,4,Thriller,2.7,Tablet,2.0,Yes
+10482,64,Female,Pune,Premium,799,115.2,30,11,Comedy,4.9,Mobile,5.9,Yes
+10483,22,Female,Surat,Basic,199,58.9,13,5,Action,4.0,Smart TV,1.4,No
+10484,32,Female,Kolkata,Standard,499,112.2,25,8,Sci-Fi,4.2,Mobile,2.1,No
+10485,49,Female,Chennai,Standard,499,65.0,21,7,Sci-Fi,3.9,Laptop,7.2,No
+10486,48,Female,Delhi,Basic,199,51.4,15,5,Documentary,3.6,Tablet,8.7,No
+10487,42,Female,Delhi,Basic,199,5.0,0,2,Comedy,3.4,Laptop,8.7,No
+10488,48,Female,Surat,Standard,499,103.5,21,10,Thriller,4.3,Tablet,1.0,No
+10489,56,Male,Delhi,Basic,199,23.6,0,4,Romance,4.1,Laptop,6.0,No
+10490,27,Male,Ahmedabad,Standard,499,59.4,18,2,Thriller,4.0,Tablet,8.5,No
+10491,36,Male,Surat,Standard,499,62.1,11,6,Action,3.9,Smart TV,8.8,No
+10492,61,Male,Kolkata,Standard,499,74.4,23,9,Thriller,3.9,Tablet,4.7,No
+10493,39,Male,Chennai,Standard,499,66.1,13,5,Comedy,4.0,Smart TV,6.5,No
+10494,62,Male,Ahmedabad,Premium,799,124.8,26,7,Crime,4.4,Mobile,5.5,No
+10495,62,Male,Delhi,Standard,499,59.9,17,5,Romance,4.8,Mobile,5.7,Yes
+10496,23,Male,Chennai,Basic,199,41.0,11,0,Comedy,4.1,Laptop,4.7,No
+10497,50,Female,Delhi,Standard,499,94.8,27,11,Documentary,4.6,Mobile,1.6,No
+10498,61,Female,Chennai,Basic,199,36.6,10,4,Action,3.1,Tablet,4.6,Yes
+10499,41,Male,Surat,Basic,199,5.0,11,2,Thriller,3.7,Smart TV,1.5,No
+10500,49,Female,Ahmedabad,Basic,199,68.4,16,9,Action,4.0,Tablet,1.8,No
+10501,50,Female,Surat,Basic,199,22.1,11,0,Comedy,3.3,Smart TV,10.0,No
+10502,52,Male,Chennai,Basic,199,15.2,0,2,Action,3.4,Mobile,0.7,No
+10503,26,Female,Delhi,Standard,499,45.9,13,4,Sci-Fi,3.7,Laptop,1.4,No
+10504,38,Male,Surat,Premium,799,78.3,24,7,Romance,3.4,Smart TV,5.5,No
+10505,48,Male,Kolkata,Basic,199,34.8,6,3,Crime,3.7,Smart TV,6.7,No
+10506,25,Female,Mumbai,Standard,499,89.8,25,6,Thriller,4.5,Smart TV,5.3,No
+10507,26,Male,Surat,Basic,199,61.0,18,5,Drama,4.6,Mobile,1.0,No
+10508,55,Female,Hyderabad,Standard,499,74.0,19,7,Documentary,4.5,Laptop,4.3,No
+10509,45,Female,Kolkata,Premium,799,66.6,18,6,Documentary,4.4,Mobile,10.0,No
+10510,18,Male,Surat,Standard,499,65.5,10,7,Drama,3.8,Tablet,1.7,No
+10511,37,Male,Kolkata,Basic,199,69.6,9,9,Crime,4.4,Tablet,3.6,No
+10512,28,Female,Hyderabad,Standard,499,85.0,20,6,Crime,4.5,Tablet,0.8,No
+10513,32,Female,Jaipur,Basic,199,43.2,10,5,Drama,3.6,Smart TV,9.3,No
+10514,50,Male,Delhi,Premium,799,146.4,36,11,Action,4.8,Smart TV,9.3,No
+10515,47,Female,Pune,Basic,199,49.0,14,2,Action,4.4,Smart TV,9.5,No
+10516,53,Female,Pune,Basic,199,77.2,17,8,Sci-Fi,3.9,Tablet,1.8,No
+10517,56,Male,Hyderabad,Premium,799,160.4,33,18,Drama,5.0,Mobile,5.6,No
+10518,31,Male,Mumbai,Basic,199,27.0,6,0,Comedy,3.6,Laptop,4.5,Yes
+10519,29,Male,Chennai,Standard,499,98.6,21,10,Romance,4.5,Smart TV,1.5,No
+10520,35,Male,Jaipur,Basic,199,32.3,8,4,Thriller,3.3,Mobile,4.8,No
+10521,61,Male,Ahmedabad,Basic,199,23.3,0,0,Comedy,4.2,Laptop,8.0,No
+10522,54,Female,Delhi,Standard,499,73.9,20,9,Sci-Fi,3.7,Mobile,8.3,No
+10523,47,Male,Surat,Basic,199,39.9,5,5,Drama,3.7,Laptop,1.5,No
+10524,49,Female,Bengaluru,Basic,199,87.2,22,11,Drama,4.7,Laptop,9.1,No
+10525,20,Male,Ahmedabad,Standard,499,60.8,17,4,Drama,4.2,Mobile,3.9,No
+10526,56,Female,Surat,Premium,799,161.2,38,15,Drama,5.0,Mobile,6.2,No
+10527,47,Female,Delhi,Standard,499,81.8,19,4,Action,4.1,Smart TV,3.1,No
+10528,59,Male,Chennai,Premium,799,163.3,38,13,Sci-Fi,5.0,Mobile,1.9,No
+10529,59,Female,Bengaluru,Basic,199,42.7,13,1,Thriller,3.8,Mobile,9.8,No
+10530,47,Female,Chennai,Basic,199,62.0,13,4,Action,3.0,Laptop,6.9,No
+10531,34,Male,Surat,Basic,199,42.0,6,7,Romance,4.2,Laptop,8.8,No
+10532,42,Male,Bengaluru,Basic,199,50.9,15,2,Action,4.1,Laptop,6.5,No
+10533,55,Male,Surat,Standard,499,65.9,14,6,Crime,4.3,Smart TV,4.4,No
+10534,22,Male,Delhi,Standard,499,96.3,15,7,Sci-Fi,4.8,Mobile,1.5,No
+10535,46,Male,Hyderabad,Standard,499,78.3,17,8,Documentary,4.3,Tablet,2.6,No
+10536,19,Female,Ahmedabad,Basic,199,45.9,14,2,Crime,4.4,Laptop,1.5,No
+10537,55,Male,Bengaluru,Premium,799,158.3,43,16,Action,4.7,Mobile,0.8,No
+10538,57,Female,Pune,Basic,199,47.5,14,6,Comedy,4.0,Tablet,7.8,No
+10539,48,Male,Chennai,Premium,799,126.6,24,13,Romance,4.3,Laptop,9.7,No
+10540,55,Female,Delhi,Basic,199,64.5,16,2,Action,5.0,Laptop,6.8,No
+10541,42,Male,Ahmedabad,Standard,499,63.8,10,8,Comedy,4.2,Tablet,8.3,No
+10542,22,Female,Kolkata,Standard,499,40.7,13,4,Romance,3.5,Mobile,0.8,No
+10543,63,Female,Kolkata,Basic,199,90.0,32,11,Crime,4.3,Smart TV,1.3,No
+10544,33,Male,Surat,Basic,199,58.7,15,4,Crime,4.2,Laptop,9.1,No
+10545,40,Male,Mumbai,Basic,199,55.2,18,3,Action,4.0,Mobile,1.7,No
+10546,30,Female,Chennai,Basic,199,5.7,0,5,Romance,3.9,Laptop,3.9,No
+10547,54,Female,Pune,Basic,199,92.8,29,10,Action,4.5,Tablet,9.4,No
+10548,24,Female,Ahmedabad,Premium,799,109.8,28,10,Drama,4.1,Tablet,7.9,No
+10549,41,Male,Pune,Standard,499,61.2,5,3,Action,3.8,Laptop,9.7,No
+10550,62,Female,Surat,Basic,199,26.5,10,4,Action,3.4,Laptop,5.1,No
+10551,31,Female,Pune,Standard,499,91.5,20,7,Crime,4.1,Laptop,4.6,No
+10552,25,Female,Hyderabad,Basic,199,63.6,14,8,Drama,3.7,Laptop,5.7,No
+10553,32,Male,Delhi,Basic,199,51.0,20,4,Comedy,3.7,Laptop,3.4,No
+10554,25,Male,Bengaluru,Basic,199,80.2,26,3,Drama,5.0,Smart TV,7.1,No
+10555,56,Female,Kolkata,Basic,199,48.5,10,5,Sci-Fi,3.6,Smart TV,9.9,No
+10556,40,Male,Bengaluru,Basic,199,67.4,21,6,Sci-Fi,4.3,Tablet,1.8,No
+10557,51,Female,Hyderabad,Standard,499,84.8,21,7,Romance,4.4,Smart TV,1.0,No
+10558,31,Female,Mumbai,Premium,799,64.6,20,5,Crime,5.0,Laptop,7.4,No
+10559,32,Male,Hyderabad,Basic,199,45.6,9,4,Romance,3.9,Tablet,1.4,No
+10560,39,Female,Ahmedabad,Basic,199,41.5,12,2,Sci-Fi,4.6,Mobile,1.2,No
+10561,21,Male,Pune,Premium,799,60.4,14,7,Thriller,4.2,Mobile,8.0,No
+10562,45,Male,Chennai,Premium,799,108.2,21,11,Sci-Fi,4.4,Smart TV,4.0,No
+10563,59,Female,Pune,Standard,499,67.0,23,6,Comedy,4.5,Tablet,6.0,No
+10564,26,Female,Ahmedabad,Basic,199,13.2,0,0,Drama,3.4,Mobile,6.8,No
+10565,57,Female,Pune,Basic,199,63.1,20,3,Comedy,4.1,Smart TV,1.3,No
+10566,60,Male,Kolkata,Standard,499,104.2,28,10,Sci-Fi,5.0,Mobile,2.5,No
+10567,23,Female,Kolkata,Premium,799,155.9,45,16,Thriller,5.0,Smart TV,4.8,No
+10568,40,Male,Delhi,Standard,499,76.0,15,5,Documentary,4.3,Smart TV,4.7,No
+10569,60,Male,Mumbai,Basic,199,36.9,8,5,Romance,3.6,Laptop,7.4,No
+10570,63,Female,Hyderabad,Standard,499,71.7,17,9,Crime,4.3,Mobile,3.9,No
+10571,30,Male,Pune,Basic,199,52.9,14,4,Action,4.1,Smart TV,6.0,No
+10572,56,Female,Kolkata,Basic,199,32.5,0,4,Action,5.0,Tablet,1.0,Yes
+10573,33,Male,Hyderabad,Standard,499,87.2,25,10,Thriller,4.9,Smart TV,1.5,No
+10574,30,Male,Chennai,Standard,499,90.4,19,10,Sci-Fi,4.4,Mobile,4.7,No
+10575,32,Male,Pune,Standard,499,75.4,10,3,Drama,4.7,Tablet,4.8,No
+10576,54,Female,Surat,Standard,499,90.7,16,12,Comedy,4.5,Laptop,6.9,No
+10577,62,Male,Bengaluru,Standard,499,68.3,17,11,Documentary,3.9,Laptop,2.8,No
+10578,44,Female,Kolkata,Basic,199,76.1,23,7,Documentary,3.8,Tablet,6.5,No
+10579,46,Male,Pune,Premium,799,141.9,37,13,Drama,5.0,Smart TV,2.4,No
+10580,35,Male,Hyderabad,Basic,199,43.9,16,0,Drama,3.4,Tablet,2.4,No
+10581,39,Male,Surat,Standard,499,50.5,11,3,Crime,4.4,Mobile,9.5,No
+10582,37,Male,Chennai,Standard,499,88.4,29,5,Thriller,4.5,Laptop,5.8,Yes
+10583,40,Female,Kolkata,Premium,799,86.8,31,7,Documentary,4.4,Laptop,3.2,Yes
+10584,27,Male,Pune,Standard,499,67.5,16,8,Crime,3.7,Laptop,3.8,No
+10585,23,Male,Jaipur,Premium,799,80.6,16,6,Romance,4.6,Smart TV,9.5,No
+10586,36,Male,Hyderabad,Premium,799,89.1,22,9,Crime,4.0,Tablet,5.5,No
+10587,18,Male,Pune,Basic,199,75.1,18,6,Thriller,4.2,Mobile,2.1,No
+10588,41,Male,Jaipur,Premium,799,87.4,20,8,Sci-Fi,4.5,Smart TV,5.5,No
+10589,29,Female,Chennai,Premium,799,124.5,31,11,Comedy,4.8,Smart TV,8.6,No
+10590,46,Female,Chennai,Premium,799,160.5,43,19,Thriller,5.0,Mobile,2.5,No
+10591,56,Female,Ahmedabad,Premium,799,151.0,35,16,Sci-Fi,4.5,Laptop,5.8,No
+10592,28,Male,Mumbai,Premium,799,62.0,18,3,Thriller,4.4,Mobile,5.4,No
+10593,39,Male,Pune,Standard,499,58.0,21,4,Sci-Fi,3.6,Laptop,1.0,No
+10594,53,Male,Bengaluru,Standard,499,28.5,12,2,Romance,3.8,Tablet,4.5,Yes
+10595,39,Female,Surat,Premium,799,115.1,25,15,Drama,4.7,Laptop,9.3,No
+10596,64,Male,Mumbai,Basic,199,37.3,9,3,Romance,4.4,Smart TV,2.3,Yes
+10597,37,Female,Jaipur,Basic,199,43.4,8,6,Action,4.9,Laptop,9.2,No
+10598,62,Male,Hyderabad,Basic,199,52.1,7,6,Action,3.9,Laptop,9.4,No
+10599,23,Female,Ahmedabad,Standard,499,104.1,34,9,Drama,4.2,Mobile,4.5,No
+10600,48,Male,Delhi,Premium,799,133.3,30,16,Action,5.0,Laptop,7.1,No
+10601,60,Male,Hyderabad,Basic,199,94.7,19,12,Comedy,4.1,Tablet,2.9,No
+10602,35,Female,Pune,Basic,199,67.5,15,8,Action,4.3,Tablet,9.0,Yes
+10603,18,Male,Delhi,Basic,199,62.7,28,6,Thriller,4.0,Tablet,1.9,No
+10604,41,Female,Pune,Standard,499,68.5,16,9,Thriller,4.0,Smart TV,9.4,No
+10605,52,Male,Bengaluru,Basic,199,23.3,9,6,Action,3.9,Laptop,5.8,Yes
+10606,59,Female,Surat,Basic,199,70.8,11,8,Crime,4.4,Laptop,2.5,No
+10607,26,Female,Delhi,Standard,499,108.0,24,13,Romance,4.8,Mobile,3.3,No
+10608,35,Female,Surat,Standard,499,57.5,10,5,Comedy,3.2,Smart TV,2.7,No
+10609,36,Female,Bengaluru,Basic,199,47.4,7,6,Thriller,3.7,Mobile,2.7,Yes
+10610,30,Male,Delhi,Standard,499,108.2,27,8,Thriller,4.5,Smart TV,5.0,No
+10611,59,Male,Jaipur,Basic,199,58.2,11,7,Sci-Fi,4.2,Smart TV,8.0,No
+10612,42,Male,Jaipur,Premium,799,71.7,14,6,Romance,4.1,Smart TV,5.8,Yes
+10613,46,Female,Pune,Premium,799,98.3,24,8,Sci-Fi,4.5,Mobile,6.2,No
+10614,57,Female,Surat,Premium,799,97.7,22,7,Thriller,4.6,Mobile,8.8,No
+10615,37,Female,Chennai,Basic,199,28.9,8,7,Action,4.2,Laptop,4.5,Yes
+10616,33,Male,Mumbai,Premium,799,125.0,37,10,Sci-Fi,4.1,Smart TV,8.3,No
+10617,48,Male,Jaipur,Premium,799,108.9,25,14,Drama,5.0,Tablet,1.4,No
+10618,42,Male,Jaipur,Basic,199,71.4,14,4,Romance,4.2,Smart TV,1.0,No
+10619,25,Female,Delhi,Premium,799,95.2,27,7,Thriller,4.5,Smart TV,1.1,No
+10620,31,Female,Surat,Standard,499,70.0,12,4,Documentary,3.3,Tablet,6.4,No
+10621,28,Female,Chennai,Basic,199,67.4,24,10,Drama,4.2,Tablet,1.5,No
+10622,52,Male,Bengaluru,Premium,799,63.2,17,6,Crime,3.6,Laptop,4.2,No
+10623,18,Male,Surat,Basic,199,46.3,2,8,Documentary,3.9,Tablet,2.2,Yes
+10624,35,Female,Delhi,Standard,499,65.7,10,0,Action,4.5,Laptop,1.9,No
+10625,25,Male,Ahmedabad,Basic,199,53.7,12,9,Comedy,4.0,Tablet,5.5,No
+10626,28,Female,Ahmedabad,Basic,199,63.8,12,1,Thriller,3.9,Smart TV,8.6,No
+10627,21,Male,Jaipur,Basic,199,65.6,22,6,Sci-Fi,4.2,Tablet,5.5,No
+10628,30,Male,Surat,Basic,199,63.8,18,3,Sci-Fi,4.2,Mobile,6.7,Yes
+10629,50,Male,Kolkata,Basic,199,34.0,13,3,Romance,3.8,Laptop,6.1,Yes
+10630,60,Male,Ahmedabad,Basic,199,46.6,19,5,Romance,3.1,Mobile,4.7,No
+10631,59,Female,Hyderabad,Premium,799,172.2,39,16,Romance,5.0,Tablet,9.1,No
+10632,39,Female,Mumbai,Premium,799,94.9,21,7,Crime,4.3,Mobile,4.1,No
+10633,32,Male,Hyderabad,Premium,799,105.5,30,8,Comedy,4.5,Laptop,4.6,Yes
+10634,44,Male,Mumbai,Basic,199,45.8,15,6,Thriller,4.2,Smart TV,4.8,No
+10635,26,Female,Jaipur,Standard,499,40.4,4,4,Documentary,3.6,Laptop,8.4,No
+10636,55,Female,Mumbai,Basic,199,72.4,18,6,Drama,4.0,Smart TV,2.8,No
+10637,58,Female,Pune,Premium,799,96.3,32,11,Sci-Fi,5.0,Laptop,1.2,Yes
+10638,29,Male,Jaipur,Standard,499,110.6,26,14,Comedy,3.7,Tablet,3.0,No
+10639,58,Male,Ahmedabad,Basic,199,70.6,21,6,Documentary,3.8,Mobile,8.1,No
+10640,31,Male,Kolkata,Standard,499,85.2,19,8,Documentary,4.6,Smart TV,2.8,No
+10641,31,Male,Bengaluru,Basic,199,22.1,2,1,Drama,3.7,Mobile,9.3,Yes
+10642,32,Male,Delhi,Basic,199,88.0,27,7,Sci-Fi,4.9,Smart TV,5.8,No
+10643,61,Female,Bengaluru,Basic,199,73.7,26,7,Romance,4.4,Mobile,3.4,No
+10644,58,Female,Surat,Basic,199,58.2,13,2,Crime,4.4,Mobile,0.6,Yes
+10645,21,Male,Jaipur,Basic,199,58.4,15,5,Documentary,3.5,Laptop,4.4,No
+10646,50,Female,Hyderabad,Standard,499,86.8,19,9,Action,4.9,Mobile,5.2,Yes
+10647,59,Male,Jaipur,Basic,199,48.3,12,2,Thriller,4.2,Mobile,4.9,No
+10648,52,Male,Kolkata,Premium,799,145.8,40,19,Crime,4.6,Laptop,6.7,Yes
+10649,32,Female,Ahmedabad,Standard,499,74.4,16,5,Comedy,3.9,Laptop,6.7,No
+10650,26,Female,Bengaluru,Standard,499,99.0,16,13,Crime,4.0,Smart TV,7.4,No
+10651,36,Female,Surat,Standard,499,58.1,10,5,Thriller,4.4,Tablet,5.1,No
+10652,20,Male,Delhi,Standard,499,23.7,1,2,Action,2.9,Mobile,3.6,No
+10653,21,Male,Bengaluru,Standard,499,109.5,37,8,Comedy,4.6,Smart TV,5.1,No
+10654,47,Male,Chennai,Premium,799,115.5,31,9,Documentary,4.7,Smart TV,1.8,No
+10655,22,Male,Mumbai,Standard,499,95.9,23,10,Sci-Fi,4.7,Smart TV,9.1,No
+10656,27,Male,Jaipur,Premium,799,108.0,23,10,Comedy,4.6,Laptop,9.0,No
+10657,44,Male,Surat,Premium,799,96.8,33,6,Action,4.6,Tablet,8.3,Yes
+10658,64,Female,Bengaluru,Basic,199,74.6,17,4,Thriller,4.9,Mobile,9.3,No
+10659,64,Female,Bengaluru,Basic,199,61.3,10,5,Drama,3.6,Tablet,0.5,No
+10660,45,Male,Bengaluru,Basic,199,54.2,10,4,Documentary,4.1,Mobile,4.6,No
+10661,42,Male,Jaipur,Standard,499,35.8,10,4,Action,4.2,Tablet,9.5,Yes
+10662,29,Female,Pune,Standard,499,87.3,25,5,Drama,4.7,Smart TV,3.8,No
+10663,37,Female,Kolkata,Standard,499,17.8,1,4,Thriller,3.5,Tablet,1.9,Yes
+10664,32,Female,Ahmedabad,Basic,199,35.4,18,3,Comedy,3.2,Laptop,9.5,No
+10665,63,Male,Surat,Basic,199,34.3,11,4,Crime,3.7,Smart TV,5.9,No
+10666,52,Male,Hyderabad,Premium,799,120.9,24,10,Romance,4.0,Mobile,8.4,No
+10667,53,Male,Surat,Standard,499,75.7,21,13,Action,4.2,Mobile,0.9,No
+10668,57,Female,Bengaluru,Standard,499,55.1,17,3,Thriller,4.7,Mobile,3.1,No
+10669,20,Female,Pune,Standard,499,107.6,34,8,Thriller,4.7,Smart TV,1.4,Yes
+10670,48,Male,Mumbai,Standard,499,80.5,30,8,Romance,4.8,Tablet,7.9,No
+10671,60,Male,Jaipur,Standard,499,114.6,38,10,Drama,4.7,Mobile,7.5,Yes
+10672,34,Male,Surat,Standard,499,32.4,15,4,Sci-Fi,3.4,Smart TV,4.0,No
+10673,49,Female,Kolkata,Basic,199,11.4,3,0,Documentary,3.9,Mobile,7.0,Yes
+10674,59,Female,Chennai,Basic,199,31.1,9,6,Drama,3.9,Mobile,5.8,Yes
+10675,50,Female,Surat,Standard,499,65.8,13,6,Drama,4.2,Tablet,0.7,No
+10676,43,Male,Surat,Standard,499,94.3,25,10,Comedy,4.3,Laptop,7.7,No
+10677,31,Female,Mumbai,Standard,499,43.0,19,4,Thriller,3.3,Laptop,2.6,No
+10678,30,Female,Surat,Premium,799,155.7,46,15,Crime,5.0,Laptop,3.7,No
+10679,22,Female,Ahmedabad,Standard,499,80.7,19,6,Thriller,4.6,Tablet,1.3,No
+10680,50,Male,Mumbai,Premium,799,132.9,37,11,Sci-Fi,4.6,Mobile,2.1,No
+10681,21,Male,Hyderabad,Standard,499,111.3,28,11,Crime,4.2,Laptop,1.7,No
+10682,18,Female,Jaipur,Standard,499,66.0,13,2,Comedy,4.1,Tablet,5.2,No
+10683,41,Male,Delhi,Basic,199,107.8,28,13,Documentary,3.9,Tablet,7.4,No
+10684,37,Female,Surat,Basic,199,44.2,9,5,Thriller,4.3,Mobile,5.3,No
+10685,37,Male,Chennai,Basic,199,56.5,16,2,Comedy,4.0,Laptop,4.5,No
+10686,39,Female,Surat,Basic,199,41.1,20,1,Crime,3.8,Tablet,6.5,No
+10687,55,Female,Hyderabad,Basic,199,21.1,11,0,Drama,3.3,Smart TV,3.3,No
+10688,60,Female,Pune,Premium,799,164.2,45,13,Action,5.0,Tablet,3.3,No
+10689,50,Male,Hyderabad,Basic,199,68.9,23,2,Action,4.1,Smart TV,7.2,No
+10690,36,Female,Delhi,Basic,199,52.2,13,6,Thriller,3.7,Smart TV,4.1,No
+10691,60,Male,Jaipur,Premium,799,154.6,32,12,Crime,5.0,Laptop,2.3,No
+10692,20,Male,Mumbai,Standard,499,82.8,18,9,Action,3.9,Laptop,1.0,Yes
+10693,51,Female,Ahmedabad,Standard,499,76.3,23,7,Thriller,4.9,Laptop,9.1,No
+10694,34,Male,Hyderabad,Premium,799,124.9,25,10,Sci-Fi,4.5,Mobile,9.0,No
+10695,30,Male,Jaipur,Basic,199,35.7,9,5,Comedy,4.2,Laptop,1.9,No
+10696,19,Female,Bengaluru,Basic,199,75.9,21,4,Documentary,3.9,Mobile,5.3,No
+10697,46,Male,Mumbai,Standard,499,104.9,27,15,Documentary,4.8,Tablet,5.5,No
+10698,55,Female,Mumbai,Premium,799,189.6,50,19,Thriller,5.0,Laptop,5.1,No
+10699,31,Male,Chennai,Standard,499,54.7,14,7,Romance,3.6,Tablet,4.9,Yes
+10700,31,Male,Hyderabad,Basic,199,51.1,10,7,Drama,4.1,Tablet,7.7,Yes
+10701,18,Female,Hyderabad,Basic,199,58.8,10,4,Crime,4.2,Mobile,1.9,No
+10702,28,Female,Jaipur,Premium,799,116.7,26,14,Drama,4.6,Laptop,7.2,No
+10703,54,Female,Surat,Basic,199,64.1,17,5,Documentary,4.2,Tablet,2.5,No
+10704,45,Female,Mumbai,Premium,799,91.8,12,8,Drama,4.0,Mobile,0.9,No
+10705,24,Male,Delhi,Standard,499,82.6,22,9,Crime,4.4,Laptop,5.8,No
+10706,52,Male,Surat,Basic,199,56.0,11,3,Comedy,4.4,Mobile,5.3,No
+10707,38,Male,Ahmedabad,Premium,799,121.3,35,7,Thriller,4.7,Tablet,4.8,No
+10708,41,Male,Jaipur,Premium,799,139.7,35,12,Drama,5.0,Mobile,2.4,No
+10709,35,Male,Jaipur,Basic,199,50.8,4,4,Crime,3.4,Smart TV,8.5,No
+10710,52,Female,Ahmedabad,Standard,499,83.6,25,5,Comedy,3.6,Mobile,3.9,No
+10711,39,Female,Mumbai,Basic,199,20.5,0,6,Romance,3.8,Laptop,1.7,Yes
+10712,33,Female,Chennai,Basic,199,65.7,11,8,Thriller,4.3,Tablet,1.8,No
+10713,30,Female,Jaipur,Basic,199,24.4,9,0,Comedy,3.8,Smart TV,8.4,No
+10714,26,Male,Delhi,Basic,199,12.4,10,0,Crime,3.1,Tablet,4.1,No
+10715,55,Female,Surat,Basic,199,95.8,33,12,Action,4.0,Tablet,6.7,Yes
+10716,52,Female,Hyderabad,Premium,799,105.7,19,8,Comedy,4.4,Tablet,3.5,No
+10717,40,Male,Mumbai,Premium,799,118.6,30,8,Comedy,4.3,Mobile,4.4,No
+10718,18,Male,Mumbai,Basic,199,40.9,16,3,Action,4.3,Tablet,5.2,No
+10719,37,Male,Ahmedabad,Standard,499,46.9,0,4,Action,3.6,Tablet,6.6,No
+10720,32,Female,Mumbai,Standard,499,86.7,17,9,Documentary,4.2,Smart TV,1.4,No
+10721,34,Male,Kolkata,Standard,499,34.9,14,6,Sci-Fi,3.3,Mobile,5.0,No
+10722,33,Female,Chennai,Standard,499,86.6,22,7,Romance,4.4,Smart TV,3.1,No
+10723,46,Female,Surat,Basic,199,42.8,14,9,Comedy,3.6,Laptop,1.7,Yes
+10724,30,Male,Hyderabad,Basic,199,46.0,9,2,Documentary,3.3,Mobile,0.7,Yes
+10725,25,Male,Jaipur,Basic,199,29.2,10,4,Romance,4.1,Laptop,4.7,No
+10726,37,Male,Delhi,Premium,799,154.2,48,12,Drama,5.0,Smart TV,9.6,No
+10727,44,Female,Jaipur,Basic,199,52.5,17,3,Romance,4.4,Tablet,4.0,No
+10728,61,Male,Surat,Premium,799,136.1,21,15,Drama,4.6,Smart TV,4.3,No
+10729,25,Male,Hyderabad,Premium,799,108.4,33,13,Comedy,4.4,Tablet,2.7,No
+10730,55,Female,Chennai,Standard,499,111.1,25,11,Action,4.8,Mobile,8.8,No
+10731,23,Female,Pune,Basic,199,31.5,7,5,Thriller,4.1,Mobile,7.2,No
+10732,40,Female,Delhi,Basic,199,10.2,0,2,Action,3.4,Laptop,9.4,Yes
+10733,40,Male,Mumbai,Basic,199,25.6,1,3,Sci-Fi,4.4,Mobile,5.8,No
+10734,39,Male,Pune,Standard,499,76.8,23,9,Romance,4.2,Mobile,5.5,No
+10735,60,Female,Surat,Premium,799,147.2,37,14,Sci-Fi,4.4,Laptop,1.3,No
+10736,60,Female,Mumbai,Basic,199,48.4,14,7,Romance,4.4,Laptop,2.4,No
+10737,38,Male,Chennai,Basic,199,32.7,13,5,Action,4.0,Tablet,8.4,No
+10738,22,Male,Pune,Basic,199,64.8,12,6,Thriller,4.3,Mobile,6.3,No
+10739,22,Female,Hyderabad,Standard,499,104.5,24,9,Documentary,4.5,Smart TV,4.4,No
+10740,60,Female,Bengaluru,Premium,799,85.9,17,9,Comedy,4.0,Laptop,5.6,No
+10741,36,Male,Chennai,Standard,499,86.1,22,11,Sci-Fi,4.8,Mobile,1.4,No
+10742,27,Male,Hyderabad,Basic,199,65.7,11,5,Action,3.9,Laptop,0.9,No
+10743,28,Female,Hyderabad,Basic,199,39.6,3,1,Comedy,4.3,Smart TV,3.5,No
+10744,56,Female,Pune,Premium,799,113.4,23,12,Documentary,4.6,Tablet,7.8,No
+10745,38,Female,Surat,Premium,799,128.6,34,13,Thriller,4.5,Laptop,4.0,No
+10746,23,Female,Kolkata,Basic,199,34.6,2,4,Thriller,3.9,Smart TV,2.1,No
+10747,35,Male,Mumbai,Standard,499,58.7,15,7,Drama,4.4,Laptop,5.7,No
+10748,52,Female,Chennai,Standard,499,71.4,26,9,Sci-Fi,3.7,Tablet,7.0,Yes
+10749,48,Male,Surat,Premium,799,152.0,36,15,Sci-Fi,5.0,Tablet,2.9,No
+10750,31,Male,Chennai,Basic,199,67.9,8,9,Thriller,4.1,Laptop,6.2,Yes
+10751,41,Male,Chennai,Premium,799,89.6,24,9,Crime,4.0,Smart TV,0.8,No
+10752,45,Female,Bengaluru,Basic,199,72.4,19,8,Thriller,4.2,Mobile,4.7,No
+10753,22,Female,Mumbai,Premium,799,90.7,25,12,Sci-Fi,3.3,Laptop,0.7,No
+10754,35,Male,Surat,Basic,199,31.9,0,0,Sci-Fi,3.7,Smart TV,5.3,Yes
+10755,41,Female,Bengaluru,Basic,199,39.4,4,2,Sci-Fi,4.2,Tablet,5.7,No
+10756,25,Female,Mumbai,Standard,499,97.1,31,12,Drama,4.3,Mobile,8.1,No
+10757,64,Female,Kolkata,Standard,499,85.5,27,9,Documentary,4.3,Laptop,2.2,No
+10758,23,Male,Jaipur,Standard,499,84.0,26,6,Action,4.0,Tablet,2.4,No
+10759,48,Female,Jaipur,Premium,799,163.7,45,14,Documentary,5.0,Laptop,6.7,No
+10760,62,Female,Ahmedabad,Standard,499,51.5,10,1,Documentary,4.7,Tablet,2.7,No
+10761,62,Female,Kolkata,Premium,799,176.7,47,17,Comedy,4.5,Smart TV,7.2,No
+10762,59,Male,Surat,Standard,499,97.0,29,11,Romance,4.4,Smart TV,6.1,No
+10763,61,Male,Ahmedabad,Premium,799,112.7,33,11,Documentary,4.6,Smart TV,1.1,No
+10764,64,Female,Surat,Basic,199,80.3,22,4,Sci-Fi,4.5,Tablet,1.9,No
+10765,64,Male,Bengaluru,Basic,199,44.5,9,3,Thriller,3.9,Mobile,6.1,No
+10766,30,Male,Kolkata,Standard,499,94.1,15,7,Crime,4.1,Smart TV,3.0,No
+10767,47,Male,Chennai,Standard,499,91.7,22,10,Documentary,4.2,Smart TV,3.6,No
+10768,62,Male,Jaipur,Standard,499,103.5,31,9,Crime,4.7,Smart TV,5.5,No
+10769,41,Male,Mumbai,Basic,199,51.8,13,4,Documentary,4.3,Mobile,9.4,No
+10770,38,Male,Delhi,Basic,199,14.9,0,3,Comedy,3.7,Tablet,3.2,Yes
+10771,38,Male,Hyderabad,Premium,799,105.0,13,8,Documentary,4.4,Laptop,3.0,No
+10772,52,Male,Jaipur,Standard,499,87.2,31,9,Thriller,4.4,Mobile,4.2,Yes
+10773,55,Female,Kolkata,Basic,199,38.9,5,5,Comedy,4.4,Tablet,9.6,No
+10774,62,Male,Mumbai,Basic,199,78.2,19,6,Thriller,4.2,Smart TV,4.0,No
+10775,26,Male,Jaipur,Basic,199,40.6,11,5,Crime,4.1,Tablet,6.1,No
+10776,47,Female,Delhi,Standard,499,100.6,25,6,Romance,4.3,Smart TV,9.0,No
+10777,20,Male,Pune,Premium,799,93.6,17,7,Crime,4.2,Smart TV,6.8,No
+10778,20,Female,Pune,Standard,499,106.8,26,14,Crime,4.6,Smart TV,7.7,No
+10779,47,Female,Kolkata,Standard,499,75.4,15,7,Sci-Fi,4.2,Mobile,4.3,No
+10780,18,Female,Surat,Basic,199,28.1,11,2,Comedy,4.2,Laptop,6.6,No
+10781,35,Female,Delhi,Basic,199,94.4,24,9,Crime,4.9,Mobile,1.5,No
+10782,62,Female,Ahmedabad,Basic,199,40.8,2,4,Comedy,3.8,Tablet,4.9,No
+10783,30,Male,Jaipur,Premium,799,187.5,42,18,Action,5.0,Laptop,6.2,No
+10784,61,Female,Delhi,Basic,199,53.0,16,7,Drama,4.3,Mobile,4.4,No
+10785,25,Female,Surat,Basic,199,21.5,6,1,Comedy,4.1,Laptop,2.0,No
+10786,20,Male,Chennai,Basic,199,48.1,12,4,Crime,3.4,Smart TV,1.1,No
+10787,45,Male,Pune,Basic,199,55.9,23,6,Romance,3.6,Laptop,1.9,No
+10788,29,Male,Mumbai,Basic,199,60.8,27,4,Sci-Fi,4.0,Mobile,0.7,No
+10789,47,Male,Kolkata,Premium,799,86.4,17,12,Thriller,4.4,Laptop,3.0,No
+10790,47,Female,Ahmedabad,Standard,499,100.1,27,12,Action,4.9,Mobile,7.6,No
+10791,25,Male,Chennai,Basic,199,23.1,1,0,Romance,4.1,Tablet,2.2,No
+10792,29,Female,Jaipur,Basic,199,46.1,6,3,Sci-Fi,3.6,Tablet,3.2,No
+10793,42,Female,Chennai,Basic,199,25.1,8,1,Documentary,4.0,Laptop,2.9,Yes
+10794,63,Male,Mumbai,Standard,499,103.7,26,11,Documentary,4.8,Mobile,2.1,No
+10795,63,Female,Surat,Premium,799,103.4,25,8,Romance,5.0,Tablet,5.6,No
+10796,33,Male,Hyderabad,Basic,199,45.4,5,4,Drama,3.9,Tablet,4.8,No
+10797,56,Female,Hyderabad,Basic,199,5.0,1,0,Romance,4.2,Tablet,2.0,Yes
+10798,44,Female,Mumbai,Premium,799,163.4,38,15,Action,5.0,Tablet,0.9,No
+10799,41,Female,Chennai,Basic,199,34.4,14,4,Romance,3.3,Laptop,4.9,Yes
+10800,44,Female,Delhi,Basic,199,23.4,11,0,Documentary,3.2,Mobile,4.2,No
+10801,47,Male,Jaipur,Basic,199,103.3,26,10,Drama,4.3,Tablet,9.2,No
+10802,30,Male,Mumbai,Basic,199,51.0,5,4,Action,4.1,Tablet,9.9,No
+10803,43,Female,Hyderabad,Standard,499,72.7,16,11,Sci-Fi,4.7,Laptop,1.1,No
+10804,29,Male,Delhi,Standard,499,68.9,19,8,Thriller,4.8,Smart TV,4.8,No
+10805,32,Female,Surat,Premium,799,86.2,14,5,Crime,5.0,Laptop,2.5,Yes
+10806,61,Male,Pune,Basic,199,11.4,0,0,Action,3.5,Smart TV,2.3,No
+10807,37,Female,Ahmedabad,Basic,199,35.0,9,4,Crime,3.8,Smart TV,9.5,No
+10808,23,Female,Kolkata,Premium,799,99.2,26,7,Romance,4.4,Smart TV,1.9,Yes
+10809,60,Male,Surat,Basic,199,51.4,14,6,Documentary,4.4,Laptop,7.5,No
+10810,57,Female,Kolkata,Basic,199,22.7,3,4,Crime,4.4,Mobile,2.1,No
+10811,39,Male,Surat,Basic,199,5.0,0,0,Sci-Fi,3.7,Mobile,8.7,No
+10812,40,Female,Jaipur,Basic,199,11.8,6,3,Comedy,3.8,Laptop,3.6,No
+10813,21,Male,Mumbai,Premium,799,139.8,37,13,Romance,4.4,Laptop,5.6,No
+10814,26,Male,Kolkata,Basic,199,60.4,10,4,Crime,4.7,Laptop,6.6,No
+10815,21,Male,Bengaluru,Standard,499,94.0,22,6,Thriller,4.7,Mobile,8.3,No
+10816,37,Male,Bengaluru,Premium,799,121.6,34,16,Documentary,4.3,Mobile,7.4,No
+10817,50,Female,Ahmedabad,Basic,199,36.0,7,3,Documentary,3.8,Laptop,1.0,Yes
+10818,55,Female,Chennai,Basic,199,49.1,17,0,Crime,4.1,Mobile,3.4,No
+10819,34,Female,Surat,Basic,199,30.9,3,3,Action,3.6,Tablet,5.8,No
+10820,45,Female,Surat,Basic,199,13.3,0,1,Drama,4.5,Tablet,4.5,No
+10821,55,Male,Chennai,Premium,799,103.1,26,11,Comedy,4.6,Smart TV,3.5,No
+10822,61,Male,Jaipur,Premium,799,137.9,38,14,Documentary,4.7,Laptop,7.5,No
+10823,32,Male,Mumbai,Basic,199,30.4,7,4,Action,4.1,Mobile,6.8,No
+10824,22,Female,Ahmedabad,Basic,199,9.3,0,0,Thriller,3.4,Tablet,7.7,No
+10825,40,Female,Pune,Basic,199,49.6,8,7,Drama,4.0,Tablet,7.2,No
+10826,46,Female,Chennai,Standard,499,66.9,11,6,Documentary,4.7,Smart TV,9.3,No
+10827,47,Female,Mumbai,Basic,199,70.4,27,8,Documentary,5.0,Mobile,4.3,No
+10828,21,Male,Chennai,Premium,799,129.5,35,13,Romance,4.9,Tablet,6.1,No
+10829,27,Female,Surat,Basic,199,76.7,21,6,Thriller,4.7,Laptop,5.0,No
+10830,59,Female,Delhi,Standard,499,65.2,24,3,Drama,3.5,Tablet,3.9,No
+10831,26,Female,Delhi,Standard,499,78.6,19,11,Romance,4.7,Smart TV,9.4,No
+10832,53,Male,Bengaluru,Basic,199,49.6,4,0,Crime,4.2,Tablet,3.1,No
+10833,20,Male,Jaipur,Standard,499,114.3,36,12,Documentary,4.7,Mobile,5.7,Yes
+10834,24,Female,Kolkata,Basic,199,73.8,23,8,Crime,5.0,Laptop,7.3,No
+10835,58,Male,Ahmedabad,Premium,799,120.1,25,12,Comedy,5.0,Tablet,7.0,No
+10836,21,Male,Kolkata,Standard,499,67.2,7,7,Sci-Fi,4.7,Laptop,2.8,No
+10837,37,Female,Chennai,Standard,499,168.9,43,15,Crime,5.0,Smart TV,4.8,Yes
+10838,30,Female,Ahmedabad,Standard,499,78.0,19,11,Documentary,4.3,Laptop,1.5,No
+10839,40,Male,Ahmedabad,Basic,199,43.9,3,4,Drama,3.2,Tablet,2.3,No
+10840,36,Male,Bengaluru,Basic,199,66.6,12,4,Thriller,4.0,Tablet,4.6,No
+10841,33,Male,Pune,Basic,199,63.7,10,3,Romance,4.5,Mobile,7.7,No
+10842,63,Male,Delhi,Standard,499,97.6,31,7,Action,4.3,Mobile,8.3,No
+10843,50,Male,Bengaluru,Basic,199,72.6,25,5,Comedy,4.3,Smart TV,0.7,Yes
+10844,54,Female,Mumbai,Standard,499,65.0,18,5,Action,4.4,Laptop,2.9,No
+10845,35,Male,Hyderabad,Standard,499,116.3,22,12,Action,4.6,Tablet,7.4,No
+10846,46,Female,Jaipur,Standard,499,64.6,10,8,Thriller,4.5,Mobile,8.2,No
+10847,26,Female,Ahmedabad,Standard,499,88.3,16,11,Drama,4.0,Tablet,7.1,No
+10848,45,Male,Surat,Premium,799,137.2,36,15,Action,4.7,Tablet,6.7,No
+10849,41,Female,Ahmedabad,Standard,499,94.2,19,9,Drama,4.0,Smart TV,2.3,No
+10850,29,Female,Surat,Premium,799,138.9,27,15,Sci-Fi,5.0,Smart TV,4.7,Yes
+10851,38,Male,Bengaluru,Standard,499,67.4,17,7,Documentary,4.6,Smart TV,8.9,No
+10852,36,Female,Ahmedabad,Basic,199,21.9,9,0,Comedy,3.8,Smart TV,7.8,No
+10853,55,Female,Jaipur,Standard,499,58.4,12,6,Romance,3.5,Mobile,4.4,No
+10854,23,Male,Chennai,Basic,199,46.9,9,7,Thriller,4.2,Tablet,9.0,No
+10855,37,Female,Bengaluru,Standard,499,35.5,16,2,Drama,4.2,Tablet,9.5,No
+10856,63,Female,Delhi,Basic,199,28.7,12,4,Documentary,3.4,Laptop,3.3,Yes
+10857,39,Female,Kolkata,Basic,199,75.2,28,8,Sci-Fi,4.1,Mobile,1.8,No
+10858,18,Female,Pune,Basic,199,69.0,15,9,Drama,3.7,Tablet,6.8,Yes
+10859,50,Male,Hyderabad,Basic,199,69.9,22,5,Comedy,4.6,Tablet,3.2,No
+10860,26,Male,Ahmedabad,Standard,499,61.8,14,8,Romance,4.6,Smart TV,4.0,No
+10861,22,Male,Chennai,Basic,199,95.4,24,7,Romance,4.7,Laptop,3.3,No
+10862,31,Female,Mumbai,Basic,199,95.6,20,10,Romance,4.5,Smart TV,1.4,No
+10863,27,Male,Delhi,Basic,199,84.9,33,10,Action,4.9,Laptop,1.2,No
+10864,29,Female,Delhi,Basic,199,69.7,9,5,Thriller,4.3,Mobile,9.4,No
+10865,56,Female,Ahmedabad,Premium,799,150.5,35,19,Thriller,4.6,Smart TV,4.5,No
+10866,43,Female,Kolkata,Basic,199,68.9,13,6,Comedy,4.0,Smart TV,2.0,No
+10867,59,Male,Delhi,Standard,499,48.3,6,6,Thriller,3.5,Laptop,9.4,No
+10868,43,Female,Kolkata,Premium,799,126.3,29,9,Action,4.3,Smart TV,5.6,No
+10869,52,Female,Bengaluru,Basic,199,62.9,10,4,Crime,4.3,Laptop,3.8,No
+10870,19,Female,Hyderabad,Basic,199,35.8,8,6,Crime,3.8,Laptop,5.4,No
+10871,26,Female,Chennai,Basic,199,35.3,1,1,Crime,3.6,Mobile,5.2,No
+10872,45,Male,Mumbai,Basic,199,5.2,0,0,Drama,3.5,Mobile,8.4,No
+10873,30,Male,Ahmedabad,Standard,499,59.4,12,2,Crime,3.9,Smart TV,9.3,No
+10874,27,Male,Bengaluru,Premium,799,75.4,16,5,Comedy,4.7,Laptop,9.9,No
+10875,23,Female,Bengaluru,Basic,199,42.5,10,0,Documentary,3.9,Tablet,5.1,No
+10876,64,Female,Bengaluru,Premium,799,152.8,53,19,Sci-Fi,4.9,Smart TV,9.6,No
+10877,44,Male,Hyderabad,Standard,499,86.2,28,10,Thriller,4.0,Smart TV,2.9,Yes
+10878,47,Male,Chennai,Standard,499,58.2,22,8,Sci-Fi,3.4,Laptop,2.0,No
+10879,18,Female,Kolkata,Basic,199,42.8,11,0,Action,3.5,Smart TV,9.2,No
+10880,60,Male,Kolkata,Basic,199,71.7,16,4,Documentary,4.3,Mobile,4.6,No
+10881,63,Female,Kolkata,Basic,199,91.3,23,10,Thriller,4.4,Laptop,9.2,No
+10882,53,Male,Pune,Basic,199,41.6,13,3,Action,2.5,Smart TV,2.7,No
+10883,57,Male,Surat,Standard,499,81.4,14,6,Romance,4.1,Tablet,7.9,No
+10884,40,Male,Bengaluru,Basic,199,58.2,11,7,Action,4.4,Smart TV,5.0,No
+10885,31,Male,Jaipur,Basic,199,41.8,17,6,Documentary,3.9,Tablet,4.8,No
+10886,18,Male,Jaipur,Basic,199,49.6,7,3,Action,3.6,Mobile,7.8,No
+10887,36,Male,Delhi,Premium,799,137.3,28,12,Crime,5.0,Laptop,7.7,No
+10888,45,Female,Pune,Premium,799,169.1,35,20,Action,4.8,Tablet,4.0,No
+10889,18,Female,Jaipur,Standard,499,82.2,19,8,Thriller,4.1,Smart TV,6.1,No
+10890,52,Male,Chennai,Basic,199,65.1,12,2,Drama,4.0,Mobile,9.7,No
+10891,40,Male,Jaipur,Premium,799,90.0,22,10,Comedy,4.1,Laptop,8.4,No
+10892,35,Female,Jaipur,Basic,199,76.0,11,5,Crime,4.5,Mobile,7.6,No
+10893,32,Female,Pune,Standard,499,102.3,24,11,Drama,4.2,Mobile,2.0,No
+10894,32,Female,Bengaluru,Standard,499,94.5,26,12,Romance,4.5,Laptop,1.3,No
+10895,56,Male,Bengaluru,Standard,499,56.9,11,7,Romance,4.1,Mobile,8.6,No
+10896,42,Female,Surat,Basic,199,52.9,4,6,Comedy,3.5,Mobile,3.0,Yes
+10897,56,Male,Chennai,Standard,499,111.3,29,9,Crime,5.0,Mobile,5.8,No
+10898,53,Male,Ahmedabad,Basic,199,65.6,19,3,Sci-Fi,4.3,Mobile,9.7,No
+10899,40,Male,Hyderabad,Premium,799,128.4,31,15,Crime,5.0,Smart TV,9.1,No
+10900,30,Male,Mumbai,Standard,499,68.5,13,8,Crime,4.1,Mobile,9.5,No
+10901,40,Male,Surat,Standard,499,57.7,14,5,Romance,3.9,Mobile,4.7,Yes
+10902,21,Female,Delhi,Standard,499,89.0,24,6,Sci-Fi,4.8,Laptop,9.4,No
+10903,27,Male,Chennai,Basic,199,91.1,23,7,Thriller,4.2,Mobile,4.2,No
+10904,62,Female,Chennai,Basic,199,80.5,29,7,Drama,5.0,Mobile,5.1,No
+10905,51,Male,Delhi,Basic,199,65.7,7,6,Thriller,4.2,Laptop,8.4,No
+10906,52,Female,Chennai,Premium,799,77.5,25,8,Action,4.2,Smart TV,6.2,No
+10907,49,Female,Delhi,Basic,199,76.6,18,7,Thriller,4.5,Tablet,1.7,No
+10908,28,Female,Pune,Standard,499,107.8,26,13,Action,4.9,Tablet,0.8,No
+10909,27,Female,Kolkata,Standard,499,82.3,18,4,Documentary,5.0,Tablet,4.5,No
+10910,44,Female,Delhi,Standard,499,53.6,18,4,Thriller,3.7,Tablet,6.0,No
+10911,61,Male,Ahmedabad,Standard,499,99.0,23,8,Romance,4.5,Laptop,3.3,No
+10912,30,Female,Ahmedabad,Standard,499,54.5,13,5,Thriller,4.0,Smart TV,4.0,No
+10913,42,Female,Chennai,Basic,199,5.6,13,0,Thriller,4.2,Laptop,4.8,Yes
+10914,36,Male,Bengaluru,Basic,199,58.2,9,5,Drama,4.7,Laptop,7.0,No
+10915,19,Female,Jaipur,Basic,199,33.2,6,5,Sci-Fi,4.6,Smart TV,5.5,Yes
+10916,33,Female,Chennai,Standard,499,68.6,24,5,Sci-Fi,4.3,Tablet,0.7,No
+10917,34,Female,Pune,Basic,199,55.9,15,8,Documentary,4.3,Laptop,4.1,No
+10918,51,Male,Mumbai,Standard,499,46.3,9,5,Thriller,3.1,Smart TV,5.1,No
+10919,38,Female,Delhi,Basic,199,51.3,11,7,Action,4.3,Tablet,2.9,No
+10920,45,Female,Chennai,Premium,799,109.1,28,13,Drama,4.6,Tablet,8.3,No
+10921,48,Female,Chennai,Basic,199,29.4,6,5,Drama,4.0,Mobile,5.1,No
+10922,42,Female,Pune,Standard,499,75.7,22,8,Thriller,4.5,Laptop,6.4,No
+10923,52,Male,Jaipur,Basic,199,33.6,0,0,Action,3.9,Smart TV,5.2,No
+10924,39,Male,Delhi,Standard,499,67.1,28,3,Crime,3.8,Smart TV,4.2,No
+10925,55,Female,Delhi,Basic,199,5.0,0,4,Comedy,3.7,Tablet,8.7,No
+10926,48,Male,Jaipur,Standard,499,41.2,3,6,Thriller,3.9,Laptop,6.6,No
+10927,44,Male,Chennai,Basic,199,90.1,23,12,Comedy,4.3,Laptop,1.3,No
+10928,56,Male,Kolkata,Standard,499,66.7,12,5,Thriller,4.0,Mobile,3.6,No
+10929,46,Female,Chennai,Standard,499,91.1,27,9,Drama,5.0,Smart TV,9.0,No
+10930,38,Male,Kolkata,Basic,199,40.7,21,1,Comedy,4.6,Smart TV,6.9,No
+10931,61,Female,Pune,Standard,499,89.0,28,10,Comedy,4.2,Laptop,7.8,No
+10932,51,Female,Jaipur,Standard,499,89.4,19,9,Drama,4.3,Smart TV,1.4,No
+10933,18,Male,Hyderabad,Standard,499,107.0,26,13,Sci-Fi,5.0,Smart TV,1.3,No
+10934,45,Female,Pune,Premium,799,153.7,35,16,Action,5.0,Laptop,6.3,No
+10935,50,Male,Kolkata,Standard,499,89.3,28,12,Thriller,4.3,Laptop,10.0,No
+10936,53,Male,Hyderabad,Basic,199,29.7,9,2,Romance,4.6,Smart TV,5.5,No
+10937,61,Male,Surat,Standard,499,64.5,20,6,Sci-Fi,4.0,Tablet,4.0,Yes
+10938,30,Female,Bengaluru,Basic,199,62.1,14,4,Action,4.2,Laptop,4.6,No
+10939,30,Female,Delhi,Premium,799,105.2,18,12,Comedy,4.5,Smart TV,2.7,No
+10940,33,Female,Surat,Basic,199,35.7,13,6,Crime,3.8,Laptop,4.3,No
+10941,22,Female,Hyderabad,Standard,499,44.5,11,4,Drama,4.6,Tablet,3.2,No
+10942,38,Female,Mumbai,Basic,199,67.5,18,5,Romance,4.6,Mobile,8.9,No
+10943,60,Male,Ahmedabad,Basic,199,55.0,8,6,Crime,4.4,Laptop,6.5,No
+10944,61,Female,Delhi,Basic,199,63.0,6,9,Drama,4.1,Smart TV,2.8,No
+10945,51,Male,Delhi,Standard,499,81.0,31,7,Documentary,4.0,Tablet,5.2,No
+10946,41,Female,Pune,Standard,499,53.1,14,3,Thriller,4.3,Laptop,8.0,No
+10947,58,Female,Hyderabad,Basic,199,58.4,9,5,Thriller,3.4,Tablet,5.6,No
+10948,43,Male,Pune,Standard,499,70.7,22,9,Documentary,4.5,Mobile,3.3,No
+10949,63,Male,Jaipur,Standard,499,94.6,25,11,Romance,4.1,Laptop,9.7,No
+10950,55,Male,Jaipur,Standard,499,95.9,22,7,Documentary,4.1,Mobile,3.6,No
+10951,63,Female,Jaipur,Standard,499,128.0,32,12,Comedy,4.5,Laptop,9.5,No
+10952,24,Male,Chennai,Standard,499,36.2,6,0,Comedy,3.8,Mobile,1.0,Yes
+10953,32,Female,Delhi,Basic,199,53.4,16,4,Thriller,3.9,Laptop,3.6,No
+10954,42,Female,Mumbai,Basic,199,70.5,14,8,Documentary,3.0,Mobile,4.6,No
+10955,57,Male,Hyderabad,Basic,199,48.2,23,8,Comedy,4.1,Laptop,6.4,No
+10956,55,Male,Hyderabad,Basic,199,52.3,12,8,Crime,3.8,Smart TV,8.7,No
+10957,37,Male,Mumbai,Basic,199,69.4,14,9,Drama,4.3,Smart TV,3.7,No
+10958,40,Male,Chennai,Standard,499,77.4,31,9,Sci-Fi,3.4,Tablet,2.5,No
+10959,32,Male,Hyderabad,Basic,199,12.7,7,1,Crime,3.6,Tablet,0.6,No
+10960,24,Female,Jaipur,Standard,499,68.1,21,7,Drama,4.1,Mobile,3.9,No
+10961,21,Male,Bengaluru,Standard,499,49.0,11,5,Comedy,3.9,Laptop,3.5,No
+10962,62,Female,Delhi,Basic,199,58.6,18,4,Action,4.2,Laptop,5.7,No
+10963,36,Male,Jaipur,Basic,199,60.9,14,8,Thriller,3.6,Mobile,4.5,No
+10964,56,Female,Kolkata,Basic,199,65.6,16,6,Crime,4.1,Tablet,8.8,No
+10965,64,Female,Bengaluru,Basic,199,18.1,0,1,Crime,3.4,Mobile,7.3,No
+10966,46,Male,Kolkata,Standard,499,91.6,27,11,Action,4.7,Tablet,9.4,No
+10967,56,Male,Surat,Standard,499,105.3,20,11,Documentary,4.5,Mobile,5.0,No
+10968,43,Female,Surat,Standard,499,95.6,23,4,Action,5.0,Mobile,4.6,No
+10969,24,Female,Jaipur,Standard,499,64.7,24,6,Comedy,4.1,Tablet,6.7,No
+10970,30,Male,Kolkata,Basic,199,59.0,16,4,Romance,3.7,Mobile,6.3,No
+10971,59,Female,Delhi,Basic,199,42.0,1,2,Comedy,4.2,Laptop,1.2,No
+10972,33,Female,Delhi,Premium,799,114.7,28,10,Documentary,5.0,Smart TV,4.0,No
+10973,37,Female,Surat,Basic,199,32.3,4,4,Comedy,3.4,Tablet,0.6,Yes
+10974,40,Male,Delhi,Basic,199,35.0,0,0,Action,4.4,Mobile,2.2,No
+10975,59,Female,Kolkata,Basic,199,48.5,19,3,Crime,3.8,Mobile,2.6,No
+10976,33,Male,Mumbai,Standard,499,81.6,13,6,Romance,4.8,Laptop,3.0,No
+10977,62,Male,Ahmedabad,Basic,199,34.4,14,3,Sci-Fi,3.6,Smart TV,7.2,No
+10978,33,Female,Surat,Standard,499,119.1,29,11,Romance,4.9,Smart TV,0.5,No
+10979,38,Female,Hyderabad,Basic,199,10.1,1,3,Thriller,4.2,Smart TV,3.9,Yes
+10980,63,Male,Mumbai,Basic,199,79.4,15,9,Romance,3.9,Laptop,6.9,No
+10981,33,Female,Ahmedabad,Basic,199,63.2,15,5,Drama,4.2,Tablet,6.2,No
+10982,62,Male,Kolkata,Standard,499,68.1,18,8,Crime,4.9,Tablet,8.4,No
+10983,58,Male,Jaipur,Standard,499,73.5,13,8,Romance,4.7,Mobile,1.5,No
+10984,32,Female,Kolkata,Premium,799,121.7,33,12,Drama,4.5,Tablet,8.1,No
+10985,19,Male,Delhi,Standard,499,70.0,21,7,Thriller,4.6,Mobile,1.7,No
+10986,36,Female,Hyderabad,Premium,799,116.4,24,12,Drama,4.5,Tablet,3.2,No
+10987,35,Female,Mumbai,Basic,199,50.3,7,5,Documentary,4.7,Tablet,1.3,No
+10988,35,Male,Ahmedabad,Standard,499,58.2,18,6,Sci-Fi,4.0,Laptop,8.4,Yes
+10989,62,Female,Delhi,Standard,499,128.4,32,14,Romance,4.6,Smart TV,1.0,Yes
+10990,41,Male,Jaipur,Basic,199,28.6,8,2,Drama,3.7,Smart TV,1.1,Yes
+10991,28,Male,Kolkata,Standard,499,32.2,7,4,Action,3.9,Smart TV,2.0,Yes
+10992,19,Female,Delhi,Basic,199,63.4,27,6,Documentary,3.9,Tablet,1.1,No
+10993,37,Male,Ahmedabad,Standard,499,57.2,13,4,Crime,4.3,Tablet,9.3,No
+10994,28,Male,Delhi,Standard,499,46.8,10,4,Comedy,3.9,Mobile,9.1,No
+10995,42,Male,Ahmedabad,Premium,799,105.6,31,11,Sci-Fi,3.9,Mobile,9.1,No
+10996,28,Female,Surat,Basic,199,60.1,23,6,Drama,3.3,Laptop,8.6,No
+10997,63,Male,Pune,Basic,199,36.0,11,1,Sci-Fi,3.7,Tablet,4.2,No
+10998,21,Male,Surat,Standard,499,100.9,21,8,Action,3.9,Mobile,5.8,No
+10999,64,Male,Bengaluru,Standard,499,108.0,34,12,Comedy,4.6,Smart TV,8.6,No
+11000,60,Male,Ahmedabad,Standard,499,51.9,13,4,Romance,4.0,Smart TV,6.1,No
