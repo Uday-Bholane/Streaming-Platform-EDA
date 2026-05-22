@@ -98,22 +98,6 @@ This project answers important business questions such as:
 
 ---
 
-## Sample Visualizations
-
-### Watch Hours Distribution
-
-![Watch Hours](images/watch_hours_distribution.png)
-
-### Genre Popularity
-
-![Genre Popularity](images/genre_popularity.png)
-
-### Correlation Heatmap
-
-![Heatmap](images/correlation_heatmap.png)
-
----
-
 ## Key Insights
 
 ### User Engagement
@@ -142,7 +126,7 @@ This project answers important business questions such as:
 Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/Streaming-Platform-EDA.git
+git clone https://github.com/Uday-Bholane/Streaming-Platform-EDA.git
 ```
 
 Install dependencies:
@@ -160,11 +144,13 @@ jupyter notebook
 Run:
 
 ```text
-notebooks/Streaming_Platform_EDA.ipynb
+Streaming-Platform-EDA/Streaming_Platform_EDA.ipynb
 ```
 
 ---
 
 ## Author
 
-Uday Bholane
+MCA Student | Aspiring Data Science & Full-Stack Developer
+
+GitHub: https://github.com/Uday-Bholane
